@@ -16,7 +16,7 @@ public class PreRoot : MonoBehaviour
     void Update()
     {
         if (Down) {
-            this.transform.Translate(new Vector2(0,-0.01f));
+            this.transform.Translate(new Vector2(0,-0.005f));
             this.GetComponent<SpriteRenderer>().sprite = Shock;
         }
     }
