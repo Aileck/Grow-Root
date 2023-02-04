@@ -9,7 +9,7 @@ public class WinOrLose : MonoBehaviour
     bool win;
     bool lose;
 
-    public Canvas canvas;
+    public GameObject panel;
     public Text bigText;
     public Text smallText;
 
@@ -21,8 +21,24 @@ public class WinOrLose : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (win || lose) {
-            
-        }   
+        if(win || lose) { 
+            if (lose) {
+                bigText.text = "Game Over";
+                smallText.text = "The sapling can no longer grow.";
+            }
+
+            panel.SetActive(true);
+
+       }
+    }
+
+    public void WonGame(bool win) {
+        if (win)
+        {
+            this.win = true;
+        }
+        else {
+            this.lose = true;
+        }
     }
 }

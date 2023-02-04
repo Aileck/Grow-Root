@@ -13,6 +13,8 @@ public class LevelManager : MonoBehaviour
     public GameObject length_label;
     public GameObject topTreshold;
 
+    public WinOrLose GameOverCanvas;
+
     GameObject thisTree;
 
     public Vector3 treePosition;
@@ -43,11 +45,13 @@ public class LevelManager : MonoBehaviour
             if (lengthRemain <= 0)
             {
                 GameEnd();
+                GameOverCanvas.WonGame(false);
 
             }
             else if ((waterToCollect - waterCollected) == 0)
             {
                 GameEnd();
+                GameOverCanvas.WonGame(true);
             }
 
 
