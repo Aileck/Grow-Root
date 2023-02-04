@@ -20,11 +20,11 @@ public class growTree : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Return))
         {
             Debug.Log("HIIIIIIIIIII");
-            ChangeSprite();
+            //ChangeSprite();
         }
     }
 
-    void ChangeSprite()
+    public void Grow()
     {
         actualSprite++;
         spriteRenderer.sprite = spriteArray[actualSprite]; 

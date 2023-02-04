@@ -88,6 +88,8 @@ public class Root : MonoBehaviour
             isWin = true;
             RootChangeColor();
             //isDead = true;
+
+            FindObjectOfType<LevelManager>()._NotiWaterCollected();
         }
         else if (other.gameObject.tag == "Thunder")
         {
