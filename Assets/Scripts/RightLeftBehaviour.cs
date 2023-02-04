@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MoleBehaviour : MonoBehaviour
+public class RightLeftBehaviour : MonoBehaviour
 {
 
     float rightBoundary = 10.0f;

@@ -17,11 +17,11 @@ public class Growth : MonoBehaviour
     {
         if (Dead)
         {
-            Color newColor = new Color(0.138f, 0.100f, 0.3f);
+            Color newColor = new Color(74f/255f, 54f/255f, 2f/255f);
             this.GetComponent<SpriteRenderer>().color = newColor;
         }
         else if (Win) {
-            Color newColor = new Color(0.97f, 0.70f, 0.1f);
+            Color newColor = new Color(97f/255f, 70f/255f, 1f/255f);
             this.GetComponent<SpriteRenderer>().color = newColor;
         }
     }

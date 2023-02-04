@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class UpDownBehaivour : MonoBehaviour
 {
-    float topBoundary = 4.0f;
+    float topBoundary = 2.0f;
     float lowBoundary = -4.0f;
     bool upDirection = true;
     // Start is called before the first frame update
