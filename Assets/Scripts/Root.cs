@@ -15,7 +15,10 @@ public class Root : MonoBehaviour
     public float rotationSpeed = 5.0f;
 
     public bool isDead = false;
+    public bool isWin  = false;
     Animator anim;
+
+    List<GameObject> roots = new List<GameObject>();
     void Start()
     {
         anim = this.GetComponent<Animator>();
@@ -27,6 +30,8 @@ public class Root : MonoBehaviour
         if(isDead == false) { 
                 this.transform.Translate(Vector2.down * Time.deltaTime * moveSpeed);
                 GameObject newRoot = Instantiate(rootSprite) ;
+                roots.Add(newRoot);
+
                 newRoot.transform.position = this.transform.position;
                 newRoot.transform.parent = rootHolder.transform;
 
@@ -61,6 +66,22 @@ public class Root : MonoBehaviour
             anim.Play("Fall");
             //Destroy(this.gameObject);
             isDead = true;
+            RootChangeColor();
+        }
+    }
+
+    void RootChangeColor() {
+        if (isDead) {
+            foreach (GameObject root in roots) {
+                root.GetComponent<Growth>().IsWin(false);
+            }
+        }
+        else if (isWin)
+        {
+            foreach (GameObject root in roots)
+            {
+                root.GetComponent<Growth>().IsWin(true);
+            }
         }
     }
 }
