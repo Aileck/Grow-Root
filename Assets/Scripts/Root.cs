@@ -27,7 +27,11 @@ public class Root : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(isDead == false) { 
+        if (isDead || isWin) {
+            Destroy(this);
+        
+        }
+        else{ 
                 this.transform.Translate(Vector2.down * Time.deltaTime * moveSpeed);
                 GameObject newRoot = Instantiate(rootSprite) ;
                 roots.Add(newRoot);
@@ -68,6 +72,15 @@ public class Root : MonoBehaviour
             isDead = true;
             RootChangeColor();
         }
+        else if (other.gameObject.tag == "Water")
+        {
+            Debug.Log("Sleeping");
+            anim.Play("Sleep");
+            Destroy(other.gameObject);
+            isWin = true;
+            RootChangeColor();
+            //isDead = true;
+        }
     }
 
     void RootChangeColor() {
@@ -86,12 +99,6 @@ public class Root : MonoBehaviour
     }
 
     private void OnCollisionEnter(Collision other) {
-        if (other.gameObject.tag == "Water")
-        {
-            Debug.Log("Sleeping");
-            anim.Play("Sleep");
-            Destroy(other.gameObject);
-            isDead = true;
-        }
+
     }
 }
