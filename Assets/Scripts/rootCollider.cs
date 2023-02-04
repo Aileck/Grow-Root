@@ -8,8 +8,6 @@ public class rootCollider : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Transform root = Instantiate(Root) as Transform;
-        Physics.IgnoreCollision(root.GetComponent<Collider>(), GetComponent<Collider>());
     }
 
     // Update is called once per frame
