@@ -16,7 +16,6 @@ public class MoleBehaviour : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log(transform.position.x);
         if (rightDirection)
         {
             transform.Translate(Vector2.right * Time.deltaTime);
