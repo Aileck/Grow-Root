@@ -17,11 +17,15 @@ public class LevelManager : MonoBehaviour
 
     public Vector3 treePosition;
 
+    
+
 
     public int waterToCollect = 5;
     int waterCollected;
 
     public float lengthRemain;
+
+    bool GameOver;
     void Start()
     {
         score_label = GameObject.FindGameObjectWithTag("Score");
@@ -31,7 +35,31 @@ public class LevelManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        UpdateLabel();
+
+
+        if (!GameOver) {
+            UpdateLabel();
+
+            if (lengthRemain <= 0)
+            {
+                GameEnd();
+
+            }
+            else if ((waterToCollect - waterCollected) == 0)
+            {
+                GameEnd();
+            }
+
+
+        }
+
+
+    }
+
+    void GameEnd() {
+        GameOver = true;
+        length_label.GetComponent<Text>().text = "";
+        score_label.GetComponent<Text>().text = "";
     }
 
     public void Initiate(Vector3 treePosition)
@@ -48,8 +76,11 @@ public class LevelManager : MonoBehaviour
     }
 
     public void _NotiWaterCollected() {
-        waterCollected++;
-        thisTree.GetComponent<growTree>().Grow();
+
+        if (!GameOver) {
+            waterCollected++;
+            thisTree.GetComponent<growTree>().Grow();
+        }
     }
 
     public void UpdateLabel() {
