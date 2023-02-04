@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2335442240205143178}
   m_Layer: 0
   m_Name: Root
-  m_TagString: Untagged
+  m_TagString: GrowRoot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -55,6 +55,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2201375605117598861}
   - component: {fileID: 3284299017171532083}
+  - component: {fileID: 6690773687002521407}
   m_Layer: 0
   m_Name: Square
   m_TagString: Untagged
@@ -129,3 +130,16 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &6690773687002521407
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7024363629488499652}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 0.2}
+  m_Center: {x: 0, y: 0, z: 0}
