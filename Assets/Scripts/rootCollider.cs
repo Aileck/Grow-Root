@@ -7,22 +7,22 @@ public class rootCollider : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
     void Update()
     {
-    
+
     }
 
-    void OnCollisionEnter2D(Collision2D collision)
+    void OnTriggerEnter2D(Collider2D other)
     {
-         Debug.Log("Enter to compare object");
-        if (collision.gameObject.tag == "Root")
+        Debug.Log("Enter to compare object");
+        if (other.gameObject.tag == "Root")
         {
             Debug.Log("DESTROYED");
-            Destroy(this);
+            Destroy(this.gameObject);
         }
     }
 }
