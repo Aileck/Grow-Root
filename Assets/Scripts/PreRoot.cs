@@ -20,4 +20,25 @@ public class PreRoot : MonoBehaviour
             this.GetComponent<SpriteRenderer>().sprite = Shock;
         }
     }
+
+    private void OnTriggerenter(Collision2D collision)
+    {
+        Debug.Log("Initiate 1");
+        if (collision.gameObject.tag == "Respawn") {
+            Debug.Log("Initiate");
+            FindObjectOfType<LevelManager>().Initiate(this.transform.position);
+            Destroy(this.gameObject);
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "Respawn")
+        {
+            Debug.Log("Initiate");
+            FindObjectOfType<LevelManager>().Initiate(this.transform.position);
+            Destroy(this.gameObject);
+            Destroy(collision.gameObject);
+        }
+    }
 }

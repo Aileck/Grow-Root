@@ -8,6 +8,7 @@ public class Root : MonoBehaviour
     bool isNew = false;
     public GameObject rootSprite;
     public GameObject rootHolder;
+    GameObject thisRootHolder;
 
     public float tiltAngle = 180.0f;
 
@@ -22,12 +23,14 @@ public class Root : MonoBehaviour
     void Start()
     {
         anim = this.GetComponent<Animator>();
+        thisRootHolder = Instantiate(rootHolder) as GameObject;
     }
 
     // Update is called once per frame
     void Update()
     {
         if (isDead || isWin) {
+            FindObjectOfType<LevelManager>().Initiate();
             Destroy(this);
         
         }
@@ -37,7 +40,7 @@ public class Root : MonoBehaviour
                 roots.Add(newRoot);
 
                 newRoot.transform.position = this.transform.position;
-                newRoot.transform.parent = rootHolder.transform;
+                newRoot.transform.parent = thisRootHolder.transform;
 
         
                 if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.A))

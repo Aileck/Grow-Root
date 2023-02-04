@@ -206,11 +206,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rootSprite: {fileID: 4678838977059168723, guid: 0124a646eb5cb68479c4f9439d125de9, type: 3}
-  rootHolder: {fileID: 0}
+  rootHolder: {fileID: 6132303855713997924, guid: b66d2673acdf1f74396fd3d037003d52, type: 3}
   tiltAngle: 180
   moveSpeed: 2
   rotationSpeed: 1
   isDead: 0
+  isWin: 0
 --- !u!61 &2091454720082569680
 BoxCollider2D:
   m_ObjectHideFlags: 0
