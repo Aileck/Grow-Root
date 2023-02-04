@@ -9,6 +9,8 @@ TagManager:
   - Mole
   - Water
   - Thunder
+  - Score
+  - Length
   layers:
   - Default
   - TransparentFX

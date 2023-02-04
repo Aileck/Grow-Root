@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class LevelManager : MonoBehaviour
 {
@@ -17,16 +18,19 @@ public class LevelManager : MonoBehaviour
 
 
     public int waterToCollect = 5;
-    public int waterCollected;
+    int waterCollected;
+
+    public float lengthRemain;
     void Start()
     {
-
+        score_label = GameObject.FindGameObjectWithTag("Score");
+        length_label = GameObject.FindGameObjectWithTag("Length");
     }
 
     // Update is called once per frame
     void Update()
     {
-
+        UpdateLabel();
     }
 
     public void Initiate(Vector3 treePosition)
@@ -44,5 +48,11 @@ public class LevelManager : MonoBehaviour
     public void _NotiWaterCollected() {
         waterCollected++;
         thisTree.GetComponent<growTree>().Grow();
+    }
+
+    public void UpdateLabel() {
+        score_label.GetComponent<Text>().text =  "Water needed: " + (waterToCollect - waterCollected).ToString();
+        length_label.GetComponent<Text>().text = "Length: " +  lengthRemain.ToString("F2") + "m";
+
     }
 }
