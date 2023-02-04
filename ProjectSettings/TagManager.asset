@@ -11,6 +11,7 @@ TagManager:
   - Thunder
   - Score
   - Length
+  - outsideWorld
   layers:
   - Default
   - TransparentFX

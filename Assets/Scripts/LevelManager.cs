@@ -11,6 +11,7 @@ public class LevelManager : MonoBehaviour
 
     public GameObject score_label;
     public GameObject length_label;
+    public GameObject topTreshold;
 
     GameObject thisTree;
 
@@ -35,6 +36,7 @@ public class LevelManager : MonoBehaviour
 
     public void Initiate(Vector3 treePosition)
     {
+        Instantiate(topTreshold, new Vector3(0,3.95f,0), Quaternion.identity);
         this.treePosition = treePosition;
         Instantiate(root, treePosition, Quaternion.identity);
         thisTree = Instantiate(tree, treePosition + new Vector3(0,3f,0), Quaternion.identity) as GameObject;

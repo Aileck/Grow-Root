@@ -26,6 +26,7 @@ public class Root : MonoBehaviour
     {
         anim = this.GetComponent<Animator>();
         thisRootHolder = Instantiate(rootHolder) as GameObject;
+        
     }
 
     // Update is called once per frame
@@ -72,7 +73,7 @@ public class Root : MonoBehaviour
     void OnTriggerEnter2D(Collider2D other)
     {
         Debug.Log("Enter to compare object");
-        if (other.gameObject.tag == "Mole")
+        if (other.gameObject.tag == "Mole" || other.gameObject.tag == "outsideWorld")
         {
 
             Debug.Log("DESTROYED");
