@@ -63,4 +63,14 @@ public class Root : MonoBehaviour
             isDead = true;
         }
     }
+
+    private void OnCollisionEnter(Collision other) {
+        if (other.gameObject.tag == "Water")
+        {
+            Debug.Log("Sleeping");
+            anim.Play("Sleep");
+            Destroy(other.gameObject);
+            isDead = true;
+        }
+    }
 }
