@@ -42,6 +42,7 @@ public class Root : MonoBehaviour
             this.transform.Translate(Vector2.down * Time.deltaTime * moveSpeed);
             GameObject newRoot = Instantiate(rootSprite);
             roots.Add(newRoot);
+            FindObjectOfType<LevelManager>().lengthRemain -= 0.001f;
 
             newRoot.transform.position = this.transform.position;
             newRoot.transform.parent = thisRootHolder.transform;

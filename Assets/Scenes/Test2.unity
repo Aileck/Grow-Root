@@ -1022,7 +1022,7 @@ GameObject:
   - component: {fileID: 1106603834}
   m_Layer: 5
   m_Name: Text (Legacy)
-  m_TagString: Untagged
+  m_TagString: Length
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1080,7 +1080,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Length left: 20m'
+  m_Text: 'Length: 20m'
 --- !u!222 &1106603835
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1435,7 +1435,7 @@ GameObject:
   - component: {fileID: 1350625620}
   m_Layer: 5
   m_Name: Text (Legacy)
-  m_TagString: Untagged
+  m_TagString: Score
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1597,8 +1597,9 @@ MonoBehaviour:
   score_label: {fileID: 0}
   length_label: {fileID: 0}
   treePosition: {x: 0, y: 0, z: 0}
-  waterToCollect: 0
+  waterToCollect: 5
   waterCollected: 0
+  lengthRemain: 20
 --- !u!4 &1605457413
 Transform:
   m_ObjectHideFlags: 0
