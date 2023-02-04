@@ -21,4 +21,9 @@ public class SceneManager : MonoBehaviour
     public void LoadLevel1() {
         UnityEngine.SceneManagement.SceneManager.LoadScene("Test4");
     }
+
+    public void LoadMenu()
+    {
+        UnityEngine.SceneManagement.SceneManager.LoadScene("Menu");
+    }
 }
