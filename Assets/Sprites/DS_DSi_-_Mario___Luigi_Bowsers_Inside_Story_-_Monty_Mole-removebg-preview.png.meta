@@ -132,10 +132,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 438.6316
-        width: 23.304348
-        height: 24.368422
+        x: 2
+        y: 444
+        width: 20
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,10 +153,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_1
       rect:
         serializedVersion: 2
-        x: 24
-        y: 438.6316
-        width: 23.304348
-        height: 24.368422
+        x: 26
+        y: 444
+        width: 20
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,10 +174,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_2
       rect:
         serializedVersion: 2
-        x: 47
-        y: 438.6316
-        width: 23.304348
-        height: 24.368422
+        x: 49
+        y: 444
+        width: 20
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,10 +195,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_3
       rect:
         serializedVersion: 2
-        x: 70
-        y: 438.6316
-        width: 23.304348
-        height: 24.368422
+        x: 72
+        y: 444
+        width: 20
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,10 +216,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_4
       rect:
         serializedVersion: 2
-        x: 93
-        y: 438.6316
-        width: 23.304348
-        height: 24.368422
+        x: 94
+        y: 444
+        width: 21
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,10 +237,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_5
       rect:
         serializedVersion: 2
-        x: 116
-        y: 438.6316
-        width: 23.304348
-        height: 24.368422
+        x: 117
+        y: 443
+        width: 20
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,10 +258,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_6
       rect:
         serializedVersion: 2
-        x: 139
-        y: 438.6316
-        width: 23.304348
-        height: 24.368422
+        x: 140
+        y: 444
+        width: 20
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,10 +279,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_7
       rect:
         serializedVersion: 2
-        x: 162
-        y: 438.6316
-        width: 23.304348
-        height: 24.368422
+        x: 163
+        y: 444
+        width: 20
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,10 +300,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_8
       rect:
         serializedVersion: 2
-        x: 1
-        y: 414.6316
-        width: 23.304348
-        height: 24.368422
+        x: 2
+        y: 423
+        width: 19
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -321,10 +321,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_9
       rect:
         serializedVersion: 2
-        x: 24
-        y: 414.6316
-        width: 23.304348
-        height: 24.368422
+        x: 26
+        y: 423
+        width: 18
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -342,10 +342,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_10
       rect:
         serializedVersion: 2
-        x: 47
-        y: 414.6316
-        width: 23.304348
-        height: 24.368422
+        x: 49
+        y: 423
+        width: 18
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -363,10 +363,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_11
       rect:
         serializedVersion: 2
-        x: 70
-        y: 414.6316
-        width: 23.304348
-        height: 24.368422
+        x: 72
+        y: 423
+        width: 18
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -384,10 +384,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_12
       rect:
         serializedVersion: 2
-        x: 93
-        y: 414.6316
-        width: 23.304348
-        height: 24.368422
+        x: 94
+        y: 423
+        width: 19
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -405,10 +405,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_13
       rect:
         serializedVersion: 2
-        x: 116
-        y: 414.6316
-        width: 23.304348
-        height: 24.368422
+        x: 117
+        y: 423
+        width: 19
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -426,10 +426,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_14
       rect:
         serializedVersion: 2
-        x: 139
-        y: 414.6316
-        width: 23.304348
-        height: 24.368422
+        x: 140
+        y: 423
+        width: 19
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -447,10 +447,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_15
       rect:
         serializedVersion: 2
-        x: 162
-        y: 414.6316
-        width: 23.304348
-        height: 24.368422
+        x: 163
+        y: 423
+        width: 19
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -468,10 +468,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_16
       rect:
         serializedVersion: 2
-        x: 1
-        y: 390.6316
-        width: 23.304348
-        height: 24.368422
+        x: 2
+        y: 403
+        width: 20
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -490,9 +490,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 24
-        y: 390.6316
-        width: 23.304348
-        height: 24.368422
+        y: 403
+        width: 21
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -511,9 +511,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 47
-        y: 390.6316
-        width: 23.304348
-        height: 24.368422
+        y: 403
+        width: 20
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -532,9 +532,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 70
-        y: 390.6316
-        width: 23.304348
-        height: 24.368422
+        y: 403
+        width: 21
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -552,10 +552,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_20
       rect:
         serializedVersion: 2
-        x: 93
-        y: 390.6316
-        width: 23.304348
-        height: 24.368422
+        x: 94
+        y: 403
+        width: 21
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -573,10 +573,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_21
       rect:
         serializedVersion: 2
-        x: 116
-        y: 390.6316
-        width: 23.304348
-        height: 24.368422
+        x: 118
+        y: 403
+        width: 20
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -594,10 +594,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_22
       rect:
         serializedVersion: 2
-        x: 139
-        y: 390.6316
-        width: 23.304348
-        height: 24.368422
+        x: 141
+        y: 403
+        width: 20
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -615,10 +615,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_23
       rect:
         serializedVersion: 2
-        x: 162
-        y: 390.6316
-        width: 23.304348
-        height: 24.368422
+        x: 164
+        y: 403
+        width: 20
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -636,10 +636,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_24
       rect:
         serializedVersion: 2
-        x: 1
-        y: 366.6316
-        width: 23.304348
-        height: 24.368422
+        x: 2
+        y: 382
+        width: 20
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -657,10 +657,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_25
       rect:
         serializedVersion: 2
-        x: 24
-        y: 366.6316
-        width: 23.304348
-        height: 24.368422
+        x: 21
+        y: 338
+        width: 63
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -678,10 +678,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_26
       rect:
         serializedVersion: 2
-        x: 47
-        y: 366.6316
-        width: 23.304348
-        height: 24.368422
+        x: 71
+        y: 382
+        width: 20
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -699,10 +699,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_27
       rect:
         serializedVersion: 2
-        x: 70
-        y: 366.6316
-        width: 23.304348
-        height: 24.368422
+        x: 95
+        y: 383
+        width: 19
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -720,10 +720,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_28
       rect:
         serializedVersion: 2
-        x: 93
-        y: 366.6316
-        width: 23.304348
-        height: 24.368422
+        x: 119
+        y: 382
+        width: 18
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -741,10 +741,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_29
       rect:
         serializedVersion: 2
-        x: 116
-        y: 366.6316
-        width: 23.304348
-        height: 24.368422
+        x: 142
+        y: 382
+        width: 18
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -762,10 +762,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_30
       rect:
         serializedVersion: 2
-        x: 139
-        y: 366.6316
-        width: 23.304348
-        height: 24.368422
+        x: 165
+        y: 382
+        width: 18
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -783,10 +783,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_31
       rect:
         serializedVersion: 2
-        x: 162
-        y: 366.6316
-        width: 23.304348
-        height: 24.368422
+        x: 2
+        y: 362
+        width: 20
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -804,10 +804,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_32
       rect:
         serializedVersion: 2
-        x: 1
-        y: 342.6316
-        width: 23.304348
-        height: 24.368422
+        x: 71
+        y: 362
+        width: 20
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -825,10 +825,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_33
       rect:
         serializedVersion: 2
-        x: 24
-        y: 342.6316
-        width: 23.304348
-        height: 24.368422
+        x: 95
+        y: 362
+        width: 19
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -846,10 +846,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_34
       rect:
         serializedVersion: 2
-        x: 47
-        y: 342.6316
-        width: 23.304348
-        height: 24.368422
+        x: 119
+        y: 362
+        width: 19
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -867,10 +867,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_35
       rect:
         serializedVersion: 2
-        x: 70
-        y: 342.6316
-        width: 23.304348
-        height: 24.368422
+        x: 142
+        y: 362
+        width: 19
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -888,10 +888,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_36
       rect:
         serializedVersion: 2
-        x: 93
-        y: 342.6316
-        width: 23.304348
-        height: 24.368422
+        x: 165
+        y: 362
+        width: 19
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -909,10 +909,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_37
       rect:
         serializedVersion: 2
-        x: 116
-        y: 342.6316
-        width: 23.304348
-        height: 24.368422
+        x: 2
+        y: 338
+        width: 18
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -930,10 +930,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_38
       rect:
         serializedVersion: 2
-        x: 139
-        y: 342.6316
-        width: 23.304348
-        height: 24.368422
+        x: 84
+        y: 338
+        width: 18
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -951,10 +951,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_39
       rect:
         serializedVersion: 2
-        x: 162
-        y: 342.6316
-        width: 23.304348
-        height: 24.368422
+        x: 103
+        y: 338
+        width: 23
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -972,10 +972,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_40
       rect:
         serializedVersion: 2
-        x: 1
-        y: 318.6316
-        width: 23.304348
-        height: 24.368422
+        x: 2
+        y: 317
+        width: 22
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -993,10 +993,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_41
       rect:
         serializedVersion: 2
-        x: 24
-        y: 318.6316
-        width: 23.304348
-        height: 24.368422
+        x: 26
+        y: 317
+        width: 21
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1014,10 +1014,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_42
       rect:
         serializedVersion: 2
-        x: 47
-        y: 318.6316
-        width: 23.304348
-        height: 24.368422
+        x: 49
+        y: 317
+        width: 22
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1035,10 +1035,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_43
       rect:
         serializedVersion: 2
-        x: 70
-        y: 318.6316
-        width: 23.304348
-        height: 24.368422
+        x: 73
+        y: 317
+        width: 22
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1056,10 +1056,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_44
       rect:
         serializedVersion: 2
-        x: 93
-        y: 318.6316
-        width: 23.304348
-        height: 24.368422
+        x: 97
+        y: 317
+        width: 21
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1077,10 +1077,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_45
       rect:
         serializedVersion: 2
-        x: 116
-        y: 318.6316
-        width: 23.304348
-        height: 24.368422
+        x: 120
+        y: 316
+        width: 22
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1098,10 +1098,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_46
       rect:
         serializedVersion: 2
-        x: 139
-        y: 318.6316
-        width: 23.304348
-        height: 24.368422
+        x: 144
+        y: 316
+        width: 22
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1119,10 +1119,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_47
       rect:
         serializedVersion: 2
-        x: 162
-        y: 318.6316
-        width: 23.304348
-        height: 24.368422
+        x: 168
+        y: 316
+        width: 21
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1140,10 +1140,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_48
       rect:
         serializedVersion: 2
-        x: 185
-        y: 318.6316
-        width: 23.304348
-        height: 24.368422
+        x: 2
+        y: 294
+        width: 22
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1161,10 +1161,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_49
       rect:
         serializedVersion: 2
-        x: 1
-        y: 294.6316
-        width: 23.304348
-        height: 24.368422
+        x: 25
+        y: 294
+        width: 22
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1182,10 +1182,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_50
       rect:
         serializedVersion: 2
-        x: 24
-        y: 294.6316
-        width: 23.304348
-        height: 24.368422
+        x: 48
+        y: 294
+        width: 22
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1203,10 +1203,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_51
       rect:
         serializedVersion: 2
-        x: 47
-        y: 294.6316
-        width: 23.304348
-        height: 24.368422
+        x: 71
+        y: 294
+        width: 22
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1224,10 +1224,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_52
       rect:
         serializedVersion: 2
-        x: 70
-        y: 294.6316
-        width: 23.304348
-        height: 24.368422
+        x: 97
+        y: 294
+        width: 21
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1245,10 +1245,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_53
       rect:
         serializedVersion: 2
-        x: 93
-        y: 294.6316
-        width: 23.304348
-        height: 24.368422
+        x: 120
+        y: 294
+        width: 21
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1266,10 +1266,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_54
       rect:
         serializedVersion: 2
-        x: 116
-        y: 294.6316
-        width: 23.304348
-        height: 24.368422
+        x: 143
+        y: 294
+        width: 21
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1287,10 +1287,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_55
       rect:
         serializedVersion: 2
-        x: 139
-        y: 294.6316
-        width: 23.304348
-        height: 24.368422
+        x: 166
+        y: 294
+        width: 22
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1308,10 +1308,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_56
       rect:
         serializedVersion: 2
-        x: 162
-        y: 294.6316
-        width: 23.304348
-        height: 24.368422
+        x: 191
+        y: 294
+        width: 22
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1329,10 +1329,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_57
       rect:
         serializedVersion: 2
-        x: 185
-        y: 294.6316
-        width: 23.304348
-        height: 24.368422
+        x: 214
+        y: 294
+        width: 22
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1350,10 +1350,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_58
       rect:
         serializedVersion: 2
-        x: 208
-        y: 294.6316
-        width: 23.304348
-        height: 24.368422
+        x: 237
+        y: 294
+        width: 22
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1371,10 +1371,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_59
       rect:
         serializedVersion: 2
-        x: 231
-        y: 294.6316
-        width: 23.304348
-        height: 24.368422
+        x: 260
+        y: 294
+        width: 22
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1392,10 +1392,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_60
       rect:
         serializedVersion: 2
-        x: 254
-        y: 294.6316
-        width: 23.304348
-        height: 24.368422
+        x: 2
+        y: 271
+        width: 22
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1413,10 +1413,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_61
       rect:
         serializedVersion: 2
-        x: 277
-        y: 294.6316
-        width: 23.304348
-        height: 24.368422
+        x: 25
+        y: 271
+        width: 22
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1434,10 +1434,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_62
       rect:
         serializedVersion: 2
-        x: 1
-        y: 270.6316
-        width: 23.304348
-        height: 24.368422
+        x: 49
+        y: 270
+        width: 20
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1455,10 +1455,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_63
       rect:
         serializedVersion: 2
-        x: 24
-        y: 270.6316
-        width: 23.304348
-        height: 24.368422
+        x: 72
+        y: 271
+        width: 20
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1476,10 +1476,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_64
       rect:
         serializedVersion: 2
-        x: 47
-        y: 270.6316
-        width: 23.304348
-        height: 24.368422
+        x: 94
+        y: 270
+        width: 22
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1497,10 +1497,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_65
       rect:
         serializedVersion: 2
-        x: 70
-        y: 270.6316
-        width: 23.304348
-        height: 24.368422
+        x: 118
+        y: 270
+        width: 20
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1518,10 +1518,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_66
       rect:
         serializedVersion: 2
-        x: 93
-        y: 270.6316
-        width: 23.304348
-        height: 24.368422
+        x: 141
+        y: 271
+        width: 20
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1539,10 +1539,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_67
       rect:
         serializedVersion: 2
-        x: 116
-        y: 270.6316
-        width: 23.304348
-        height: 24.368422
+        x: 163
+        y: 271
+        width: 22
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1560,10 +1560,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_68
       rect:
         serializedVersion: 2
-        x: 139
-        y: 270.6316
-        width: 23.304348
-        height: 24.368422
+        x: 187
+        y: 270
+        width: 20
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1581,10 +1581,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_69
       rect:
         serializedVersion: 2
-        x: 162
-        y: 270.6316
-        width: 23.304348
-        height: 24.368422
+        x: 210
+        y: 270
+        width: 20
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1602,10 +1602,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_70
       rect:
         serializedVersion: 2
-        x: 185
-        y: 270.6316
-        width: 23.304348
-        height: 24.368422
+        x: 232
+        y: 271
+        width: 22
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1623,10 +1623,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_71
       rect:
         serializedVersion: 2
-        x: 208
-        y: 270.6316
-        width: 23.304348
-        height: 24.368422
+        x: 256
+        y: 270
+        width: 20
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1644,10 +1644,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_72
       rect:
         serializedVersion: 2
-        x: 231
-        y: 270.6316
-        width: 23.304348
-        height: 24.368422
+        x: 279
+        y: 271
+        width: 21
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1665,10 +1665,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_73
       rect:
         serializedVersion: 2
-        x: 254
-        y: 270.6316
-        width: 23.304348
-        height: 24.368422
+        x: 302
+        y: 271
+        width: 21
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1686,10 +1686,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_74
       rect:
         serializedVersion: 2
-        x: 277
-        y: 270.6316
-        width: 23.304348
-        height: 24.368422
+        x: 325
+        y: 270
+        width: 21
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1707,10 +1707,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_75
       rect:
         serializedVersion: 2
-        x: 300
-        y: 270.6316
-        width: 23.304348
-        height: 24.368422
+        x: 348
+        y: 270
+        width: 21
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1728,10 +1728,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_76
       rect:
         serializedVersion: 2
-        x: 323
-        y: 270.6316
-        width: 23.304348
-        height: 24.368422
+        x: 370
+        y: 270
+        width: 22
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1749,10 +1749,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_77
       rect:
         serializedVersion: 2
-        x: 346
-        y: 270.6316
-        width: 23.304348
-        height: 24.368422
+        x: 394
+        y: 270
+        width: 21
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1770,10 +1770,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_78
       rect:
         serializedVersion: 2
-        x: 369
-        y: 270.6316
-        width: 23.304348
-        height: 24.368422
+        x: 417
+        y: 270
+        width: 21
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1791,10 +1791,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_79
       rect:
         serializedVersion: 2
-        x: 392
-        y: 270.6316
-        width: 23.304348
-        height: 24.368422
+        x: 440
+        y: 270
+        width: 22
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1812,10 +1812,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_80
       rect:
         serializedVersion: 2
-        x: 415
-        y: 270.6316
-        width: 23.304348
-        height: 24.368422
+        x: 463
+        y: 270
+        width: 21
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1833,10 +1833,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_81
       rect:
         serializedVersion: 2
-        x: 438
-        y: 270.6316
-        width: 23.304348
-        height: 24.368422
+        x: 2
+        y: 251
+        width: 20
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1854,10 +1854,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_82
       rect:
         serializedVersion: 2
-        x: 461
-        y: 270.6316
-        width: 23.304348
-        height: 24.368422
+        x: 24
+        y: 251
+        width: 22
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1875,10 +1875,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_83
       rect:
         serializedVersion: 2
-        x: 1
-        y: 246.63158
-        width: 23.304348
-        height: 24.368422
+        x: 48
+        y: 251
+        width: 20
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1896,10 +1896,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_84
       rect:
         serializedVersion: 2
-        x: 24
-        y: 246.63158
-        width: 23.304348
-        height: 24.368422
+        x: 71
+        y: 251
+        width: 20
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1917,10 +1917,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_85
       rect:
         serializedVersion: 2
-        x: 47
-        y: 246.63158
-        width: 23.304348
-        height: 24.368422
+        x: 93
+        y: 251
+        width: 22
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1938,10 +1938,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_86
       rect:
         serializedVersion: 2
-        x: 70
-        y: 246.63158
-        width: 23.304348
-        height: 24.368422
+        x: 117
+        y: 251
+        width: 21
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1959,10 +1959,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_87
       rect:
         serializedVersion: 2
-        x: 93
-        y: 246.63158
-        width: 23.304348
-        height: 24.368422
+        x: 140
+        y: 251
+        width: 21
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1980,10 +1980,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_88
       rect:
         serializedVersion: 2
-        x: 116
-        y: 246.63158
-        width: 23.304348
-        height: 24.368422
+        x: 163
+        y: 251
+        width: 21
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2001,10 +2001,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_89
       rect:
         serializedVersion: 2
-        x: 139
-        y: 246.63158
-        width: 23.304348
-        height: 24.368422
+        x: 186
+        y: 251
+        width: 21
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2022,10 +2022,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_90
       rect:
         serializedVersion: 2
-        x: 162
-        y: 246.63158
-        width: 23.304348
-        height: 24.368422
+        x: 209
+        y: 251
+        width: 21
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2043,10 +2043,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_91
       rect:
         serializedVersion: 2
-        x: 185
-        y: 246.63158
-        width: 23.304348
-        height: 24.368422
+        x: 232
+        y: 252
+        width: 21
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2064,10 +2064,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_92
       rect:
         serializedVersion: 2
-        x: 208
-        y: 246.63158
-        width: 23.304348
-        height: 24.368422
+        x: 256
+        y: 251
+        width: 19
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2085,10 +2085,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_93
       rect:
         serializedVersion: 2
-        x: 231
-        y: 246.63158
-        width: 23.304348
-        height: 24.368422
+        x: 279
+        y: 251
+        width: 19
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2106,10 +2106,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_94
       rect:
         serializedVersion: 2
-        x: 254
-        y: 246.63158
-        width: 23.304348
-        height: 24.368422
+        x: 303
+        y: 252
+        width: 17
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2127,10 +2127,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_95
       rect:
         serializedVersion: 2
-        x: 277
-        y: 246.63158
-        width: 23.304348
-        height: 24.368422
+        x: 326
+        y: 252
+        width: 16
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2148,10 +2148,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_96
       rect:
         serializedVersion: 2
-        x: 300
-        y: 246.63158
-        width: 23.304348
-        height: 24.368422
+        x: 350
+        y: 253
+        width: 14
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2169,10 +2169,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_97
       rect:
         serializedVersion: 2
-        x: 323
-        y: 246.63158
-        width: 23.304348
-        height: 24.368422
+        x: 374
+        y: 253
+        width: 13
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2190,10 +2190,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_98
       rect:
         serializedVersion: 2
-        x: 346
-        y: 246.63158
-        width: 23.304348
-        height: 24.368422
+        x: 398
+        y: 254
+        width: 11
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2211,10 +2211,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_99
       rect:
         serializedVersion: 2
-        x: 369
-        y: 246.63158
-        width: 23.304348
-        height: 24.368422
+        x: 422
+        y: 255
+        width: 10
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2232,10 +2232,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_100
       rect:
         serializedVersion: 2
-        x: 392
-        y: 246.63158
-        width: 23.304348
-        height: 24.368422
+        x: 446
+        y: 255
+        width: 8
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2253,10 +2253,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_101
       rect:
         serializedVersion: 2
-        x: 415
-        y: 246.63158
-        width: 23.304348
-        height: 24.368422
+        x: 470
+        y: 255
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2274,10 +2274,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_102
       rect:
         serializedVersion: 2
-        x: 438
-        y: 246.63158
-        width: 23.304348
-        height: 24.368422
+        x: 494
+        y: 256
+        width: 27
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2295,10 +2295,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_103
       rect:
         serializedVersion: 2
-        x: 461
-        y: 246.63158
-        width: 23.304348
-        height: 24.368422
+        x: 2
+        y: 233
+        width: 82
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2316,10 +2316,10 @@ TextureImporter:
       name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_104
       rect:
         serializedVersion: 2
-        x: 484
-        y: 246.63158
-        width: 23.304348
-        height: 24.368422
+        x: 1
+        y: 30
+        width: 533
+        height: 202
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2329,3450 +2329,6 @@ TextureImporter:
       bones: []
       spriteID: 47e322bc9449eb242a89325bd1da5052
       internalID: -65644430
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_105
-      rect:
-        serializedVersion: 2
-        x: 507
-        y: 246.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b82210bde6e43a247a1b39ff12907abb
-      internalID: 531853795
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_106
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 222.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 003c6622be25cce47afd24db165251ae
-      internalID: 1111602505
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_107
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 222.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b4f0ef687bc3c0d4da7a1beb364826ad
-      internalID: -518169006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_108
-      rect:
-        serializedVersion: 2
-        x: 47
-        y: 222.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e0c9c4dfeb1ea894d8247a2b9f599e6d
-      internalID: 1970875608
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_109
-      rect:
-        serializedVersion: 2
-        x: 70
-        y: 222.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7e4979a3911446441a4b7fe0747a9454
-      internalID: -1983958120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_110
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 198.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e86798726b18f2e4b893cb225c80c860
-      internalID: -273599030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_111
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 198.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 385386860e21d3542a97bd6c240ea3c1
-      internalID: 1958186791
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_112
-      rect:
-        serializedVersion: 2
-        x: 47
-        y: 198.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4380b46b86f98204c8f90575864813b5
-      internalID: 67292920
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_113
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 174.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1d383b455b86d084abdac7cbbb3a9ed2
-      internalID: 1135425585
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_114
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 174.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d27aabc49e296dc42ae8deaf988df7a1
-      internalID: 1880034451
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_115
-      rect:
-        serializedVersion: 2
-        x: 47
-        y: 174.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d27e882540a8f604cb2b04765ae058bd
-      internalID: -1133993356
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_116
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 150.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0e4309a577735e34cacafcb822c7e13c
-      internalID: 1377384953
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_117
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 150.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 400993d5c64f28b44a7bd260c42001ed
-      internalID: -1248148384
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_118
-      rect:
-        serializedVersion: 2
-        x: 47
-        y: 150.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 69505c003bbca4a4abd1b9434f30df0e
-      internalID: -1061916765
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_119
-      rect:
-        serializedVersion: 2
-        x: 70
-        y: 150.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2d378a7f537bec7459f9c53e67f9226a
-      internalID: -209492936
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_120
-      rect:
-        serializedVersion: 2
-        x: 93
-        y: 150.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bf8bf678e0ad2284fa545e684a99d666
-      internalID: 1783144334
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_121
-      rect:
-        serializedVersion: 2
-        x: 116
-        y: 150.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 314b9805ad9f1c64b9b1b326cc235e38
-      internalID: -558429594
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_122
-      rect:
-        serializedVersion: 2
-        x: 139
-        y: 150.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1d8261b40d009634a83fdbf7c6222940
-      internalID: 1380669931
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_123
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 150.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 00f8e35dfc8cfb245a8c8c50c5c6db48
-      internalID: 1626854706
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_124
-      rect:
-        serializedVersion: 2
-        x: 185
-        y: 150.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 96ee8a307b0a31348a57f499f1ea7e50
-      internalID: -1641062603
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_125
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 150.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eab2ba36060d99d41873bb556934b03b
-      internalID: -776104283
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_126
-      rect:
-        serializedVersion: 2
-        x: 231
-        y: 150.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 034659fb575f6c84491437c1d9aea9c9
-      internalID: -1066671028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_127
-      rect:
-        serializedVersion: 2
-        x: 254
-        y: 150.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ae8e98daf55a18a4e8e9cd15e4351292
-      internalID: -40160411
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_128
-      rect:
-        serializedVersion: 2
-        x: 277
-        y: 150.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a9dc0c28a5b1e1a44869e497b46d3753
-      internalID: -2111362761
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_129
-      rect:
-        serializedVersion: 2
-        x: 300
-        y: 150.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f9460c30486a44a41ab59090b6070a5e
-      internalID: 1958458345
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_130
-      rect:
-        serializedVersion: 2
-        x: 323
-        y: 150.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2eb43f147c0e412418ccd7997e986165
-      internalID: 1778830431
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_131
-      rect:
-        serializedVersion: 2
-        x: 346
-        y: 150.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1f596c5bc68f8154c9761dbd54c973e4
-      internalID: -579195576
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_132
-      rect:
-        serializedVersion: 2
-        x: 369
-        y: 150.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d13402d9ea6e5734287fcbd23457ec00
-      internalID: -657303658
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_133
-      rect:
-        serializedVersion: 2
-        x: 392
-        y: 150.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ce113dc07e7de39448a76e5339605f91
-      internalID: -554105972
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_134
-      rect:
-        serializedVersion: 2
-        x: 415
-        y: 150.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 68a87905333ce22468c6e41948613dd0
-      internalID: -1577662121
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_135
-      rect:
-        serializedVersion: 2
-        x: 438
-        y: 150.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a94d2d0ab8c77144f8e70d0a4cfba516
-      internalID: -207453242
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_136
-      rect:
-        serializedVersion: 2
-        x: 461
-        y: 150.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d0fc6ad7eabd4644ea82b015dfc263ef
-      internalID: -288223220
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_137
-      rect:
-        serializedVersion: 2
-        x: 484
-        y: 150.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 141270c02ed1470489e8f9e504e5ae63
-      internalID: -687472897
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_138
-      rect:
-        serializedVersion: 2
-        x: 507
-        y: 150.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c2b80890bdf5a6049a1174f31fe76a16
-      internalID: 875472795
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_139
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 126.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 01f9690d5063e494e941225c84eaa51c
-      internalID: 1182270027
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_140
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 126.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 101f07edb40f40040b46bd5b282689f8
-      internalID: -765661916
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_141
-      rect:
-        serializedVersion: 2
-        x: 47
-        y: 126.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b338feae021bf3f43a92c888a4ff72f5
-      internalID: -276077446
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_142
-      rect:
-        serializedVersion: 2
-        x: 70
-        y: 126.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7ed34bfb856191f49912674dcb61665d
-      internalID: -859035846
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_143
-      rect:
-        serializedVersion: 2
-        x: 93
-        y: 126.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 65e22bd085ccdaf448ede4d6b39af225
-      internalID: -1048759687
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_144
-      rect:
-        serializedVersion: 2
-        x: 116
-        y: 126.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f63d097c5fd8084187cc62f8e2d4200
-      internalID: -1495234919
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_145
-      rect:
-        serializedVersion: 2
-        x: 139
-        y: 126.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 50c8062c9e8ff4649a06bb93c8014ad8
-      internalID: 1244398113
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_146
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 126.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6844dda027d200a40b9e31a5d608f9df
-      internalID: 368504161
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_147
-      rect:
-        serializedVersion: 2
-        x: 185
-        y: 126.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 72f776b66d6dad04788a5cea84a38f81
-      internalID: 1904655934
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_148
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 126.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 578dcef0d8548cb4f8f4a1521656651b
-      internalID: 727028102
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_149
-      rect:
-        serializedVersion: 2
-        x: 231
-        y: 126.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aa850bb50799f2449bd3d1256a0e430d
-      internalID: -508464175
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_150
-      rect:
-        serializedVersion: 2
-        x: 254
-        y: 126.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4a61a7588be78e9499d27b5582b75203
-      internalID: -653187703
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_151
-      rect:
-        serializedVersion: 2
-        x: 277
-        y: 126.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f89dde375dcb8a74cbc8ac0e9026909c
-      internalID: -635179725
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_152
-      rect:
-        serializedVersion: 2
-        x: 300
-        y: 126.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8423bf804fdf6234f90d0e0eeb7ef78e
-      internalID: -524558679
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_153
-      rect:
-        serializedVersion: 2
-        x: 323
-        y: 126.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6ad91ad3da05d76498fc1fab6908fc60
-      internalID: 1698989184
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_154
-      rect:
-        serializedVersion: 2
-        x: 346
-        y: 126.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e66017f30c200c04194159963956463d
-      internalID: 2109140368
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_155
-      rect:
-        serializedVersion: 2
-        x: 369
-        y: 126.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7b64d0dc7669b1540b34cf8221521495
-      internalID: 114679182
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_156
-      rect:
-        serializedVersion: 2
-        x: 392
-        y: 126.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: db3e5076713f8c240a93b07114abcb70
-      internalID: 319325535
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_157
-      rect:
-        serializedVersion: 2
-        x: 415
-        y: 126.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bda177d527f4f98499385d797791f670
-      internalID: -506143833
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_158
-      rect:
-        serializedVersion: 2
-        x: 438
-        y: 126.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 12701ef531c69f1489ba5e61e1c405f8
-      internalID: 1852223416
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_159
-      rect:
-        serializedVersion: 2
-        x: 461
-        y: 126.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6fcec864b5035844f9773ff5640295d1
-      internalID: 1823829664
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_160
-      rect:
-        serializedVersion: 2
-        x: 484
-        y: 126.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fa2afcddf23d02c4590f049932b11cfa
-      internalID: -126408938
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_161
-      rect:
-        serializedVersion: 2
-        x: 507
-        y: 126.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7d3113d5f62d3414bbd95cf80ad814fb
-      internalID: -734834845
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_162
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 102.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ab18765f2212e3441a6302269bcf9b8c
-      internalID: -1081043772
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_163
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 102.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5c2496303b242a644bd49cb6f5005149
-      internalID: 814801785
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_164
-      rect:
-        serializedVersion: 2
-        x: 47
-        y: 102.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ba0ecb6728b6b0f4fb329892b4a98118
-      internalID: -2000968651
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_165
-      rect:
-        serializedVersion: 2
-        x: 70
-        y: 102.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 78dc7fd793deae64a884b0c5e1e3460e
-      internalID: -1470180946
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_166
-      rect:
-        serializedVersion: 2
-        x: 93
-        y: 102.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0a1c34ede4fb8624a894084a927d726c
-      internalID: 1906338629
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_167
-      rect:
-        serializedVersion: 2
-        x: 116
-        y: 102.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 99d3ea1657eb6c44da6b0e002c88b7f8
-      internalID: -215526789
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_168
-      rect:
-        serializedVersion: 2
-        x: 139
-        y: 102.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6ba68ba0cf5c87040a07a7ef8fab1e09
-      internalID: 1184338122
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_169
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 102.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b7a295a252897334680bfe249ba4a5de
-      internalID: 429886205
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_170
-      rect:
-        serializedVersion: 2
-        x: 185
-        y: 102.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 92e71be7018f3c44e9cca566f614a9c5
-      internalID: 623667644
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_171
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 102.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cff86676287e73a4e94c9ce8f1ce6115
-      internalID: 1218269015
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_172
-      rect:
-        serializedVersion: 2
-        x: 231
-        y: 102.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6cf50a99c31e84f478583480ad1b62a0
-      internalID: 1151012083
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_173
-      rect:
-        serializedVersion: 2
-        x: 254
-        y: 102.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5d1e7cd5551d227479eb3d1c123d332d
-      internalID: 596880870
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_174
-      rect:
-        serializedVersion: 2
-        x: 277
-        y: 102.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2e1d359b392aba04b9d59637f3e698bd
-      internalID: -1636911031
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_175
-      rect:
-        serializedVersion: 2
-        x: 300
-        y: 102.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1cf6b38d22769b7478902f45c992c796
-      internalID: 374050760
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_176
-      rect:
-        serializedVersion: 2
-        x: 323
-        y: 102.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d4b8d00b2d24f084d8ced9cde447d87b
-      internalID: 1532502404
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_177
-      rect:
-        serializedVersion: 2
-        x: 346
-        y: 102.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 81e3ae27bffffda4baf735af055300a6
-      internalID: 1277243404
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_178
-      rect:
-        serializedVersion: 2
-        x: 369
-        y: 102.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 816aec63119b1c945b706c6829b0d8ed
-      internalID: 2014204978
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_179
-      rect:
-        serializedVersion: 2
-        x: 392
-        y: 102.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a6bd8ccac76b37a4ebdc2ba7428fc630
-      internalID: 1929640188
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_180
-      rect:
-        serializedVersion: 2
-        x: 415
-        y: 102.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6d24ee4da78f2a141ad53589bd960c9c
-      internalID: 170964010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_181
-      rect:
-        serializedVersion: 2
-        x: 438
-        y: 102.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 27578dd1fb579be40a735774688c3a56
-      internalID: -551849317
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_182
-      rect:
-        serializedVersion: 2
-        x: 461
-        y: 102.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2ee7ea6a054f2014f8c0e93f9634a6e9
-      internalID: 1870161440
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_183
-      rect:
-        serializedVersion: 2
-        x: 484
-        y: 102.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 51b911ce95c33224d8057a231bb4b5b1
-      internalID: -1498733744
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_184
-      rect:
-        serializedVersion: 2
-        x: 507
-        y: 102.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 153dbaf662bb9e44491ad0aa44692e52
-      internalID: 1245884587
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_185
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 78.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e21366ba7d3b54f4b9f4a0133080f9ed
-      internalID: 1834343581
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_186
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 78.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 27aef9cbe54078640b0f330ffdde3a97
-      internalID: 2003323515
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_187
-      rect:
-        serializedVersion: 2
-        x: 47
-        y: 78.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6edff1a9f4d47f149bf3085a32b30e8e
-      internalID: 1581916775
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_188
-      rect:
-        serializedVersion: 2
-        x: 70
-        y: 78.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a5b7f6c132a98f84898d0100eda04b0b
-      internalID: -2092195841
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_189
-      rect:
-        serializedVersion: 2
-        x: 93
-        y: 78.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dff6e65e3aa1a8e41abb121aae9b7407
-      internalID: -810703459
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_190
-      rect:
-        serializedVersion: 2
-        x: 116
-        y: 78.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 24d21f688cd5b374382d72487f6c42b3
-      internalID: 2076051874
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_191
-      rect:
-        serializedVersion: 2
-        x: 139
-        y: 78.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4f775e15c83c8e24e8587dc90f73be68
-      internalID: 931900286
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_192
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 78.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9dfd23f4fee63ef49bc5ee80f50193b6
-      internalID: 1925177536
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_193
-      rect:
-        serializedVersion: 2
-        x: 185
-        y: 78.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b8a6cf4c5415cf648ad5626959313ce7
-      internalID: 1520207223
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_194
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 78.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e09da728b39fcce49ba979fda3e13c90
-      internalID: -1113372182
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_195
-      rect:
-        serializedVersion: 2
-        x: 231
-        y: 78.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ba0a379291461634f9dc55dc0a352940
-      internalID: -716299379
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_196
-      rect:
-        serializedVersion: 2
-        x: 254
-        y: 78.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d014cd5f20e6d174bbbc760ae6b0ef56
-      internalID: -513696150
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_197
-      rect:
-        serializedVersion: 2
-        x: 277
-        y: 78.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aa0e6c3d0adf32f4e8e8641445a5fc24
-      internalID: 987782864
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_198
-      rect:
-        serializedVersion: 2
-        x: 300
-        y: 78.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 396d33d1c4e94fa459837df8a81caf05
-      internalID: 2000962024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_199
-      rect:
-        serializedVersion: 2
-        x: 323
-        y: 78.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7d84a56f8467412449b692fac9d84371
-      internalID: -601782101
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_200
-      rect:
-        serializedVersion: 2
-        x: 346
-        y: 78.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a6159c9f74309604fadee20acc5401d3
-      internalID: 498262202
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_201
-      rect:
-        serializedVersion: 2
-        x: 369
-        y: 78.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9e3a9a613adab204996553ef025c2338
-      internalID: 1378632475
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_202
-      rect:
-        serializedVersion: 2
-        x: 392
-        y: 78.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4460850431d8dca478458e7178caed72
-      internalID: 329872011
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_203
-      rect:
-        serializedVersion: 2
-        x: 415
-        y: 78.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7f8c5d4779dad5545a3b424b4fbff9d4
-      internalID: -374027583
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_204
-      rect:
-        serializedVersion: 2
-        x: 438
-        y: 78.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2022c1d7ff8c640428b7b74a37ce459f
-      internalID: -210259020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_205
-      rect:
-        serializedVersion: 2
-        x: 461
-        y: 78.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 37ebe5d588e29cf44bac7674f8b806b9
-      internalID: 117674804
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_206
-      rect:
-        serializedVersion: 2
-        x: 484
-        y: 78.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2c4a608c190591049a8aad2234e79f42
-      internalID: -1866703123
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_207
-      rect:
-        serializedVersion: 2
-        x: 507
-        y: 78.63158
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 22ae4dad39470a04d8da6d1b82ae6be0
-      internalID: 339231504
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_208
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 54.631577
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c70a7befa3909a74984cae8708f80066
-      internalID: -466668533
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_209
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 54.631577
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a6ba3bf182b5fa74bbff122912d19655
-      internalID: 925008260
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_210
-      rect:
-        serializedVersion: 2
-        x: 47
-        y: 54.631577
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 19b917e2de3fb0f4b92c50b1b2c0ffa2
-      internalID: -89420732
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_211
-      rect:
-        serializedVersion: 2
-        x: 70
-        y: 54.631577
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ba4d510f7619f554089cd2e7206faeae
-      internalID: -1351344630
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_212
-      rect:
-        serializedVersion: 2
-        x: 93
-        y: 54.631577
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1debdc8c9e8b0f34f894db11830f0662
-      internalID: -1849096873
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_213
-      rect:
-        serializedVersion: 2
-        x: 116
-        y: 54.631577
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fb82dd331bf4ea741bedd1c7d964d3c0
-      internalID: 679705138
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_214
-      rect:
-        serializedVersion: 2
-        x: 139
-        y: 54.631577
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c9c1905771b6ef64cbbc93c4f6898c3a
-      internalID: 1375218504
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_215
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 54.631577
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1a69dc8d69681f7409175b851763a8e4
-      internalID: -1233710638
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_216
-      rect:
-        serializedVersion: 2
-        x: 185
-        y: 54.631577
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9b44b61f985e6e24c806c11bff99660d
-      internalID: -657061937
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_217
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 54.631577
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 607641cdec80a414188ba9ea9cbeb4da
-      internalID: -904054716
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_218
-      rect:
-        serializedVersion: 2
-        x: 231
-        y: 54.631577
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 15400ea4ee1d5af4f8b1cfb9f85c45a0
-      internalID: 1837172343
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_219
-      rect:
-        serializedVersion: 2
-        x: 254
-        y: 54.631577
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bf14421715a2e5f4697ad945a113eb30
-      internalID: 99455002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_220
-      rect:
-        serializedVersion: 2
-        x: 277
-        y: 54.631577
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 447e45350b1edad4089166853b6fa0ef
-      internalID: 1466416727
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_221
-      rect:
-        serializedVersion: 2
-        x: 300
-        y: 54.631577
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 557b1c8552329d54f897eeca6b11a876
-      internalID: -1193078823
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_222
-      rect:
-        serializedVersion: 2
-        x: 323
-        y: 54.631577
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0a0f91429e23da64db4aa8895d1814ac
-      internalID: -2033560387
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_223
-      rect:
-        serializedVersion: 2
-        x: 346
-        y: 54.631577
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 423617dc9d22c264b87bb9cd1c47c788
-      internalID: 145994491
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_224
-      rect:
-        serializedVersion: 2
-        x: 369
-        y: 54.631577
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ad6d1460ef3d1954aa31483bd9d14d53
-      internalID: -1756340797
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_225
-      rect:
-        serializedVersion: 2
-        x: 392
-        y: 54.631577
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b4834f1489c301c4686b8b3b500ce22f
-      internalID: 1043889804
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_226
-      rect:
-        serializedVersion: 2
-        x: 415
-        y: 54.631577
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ddcbd31c57fc9e34e91287240601aac8
-      internalID: -1195765574
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_227
-      rect:
-        serializedVersion: 2
-        x: 438
-        y: 54.631577
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7567d276855a63344b42915f2db82fef
-      internalID: 1300230037
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_228
-      rect:
-        serializedVersion: 2
-        x: 461
-        y: 54.631577
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8043d9267f6f296489c9af6ed4ec12eb
-      internalID: -150829246
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_229
-      rect:
-        serializedVersion: 2
-        x: 484
-        y: 54.631577
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dd03aa699eeb8eb44b791e87bbcf40de
-      internalID: -237807121
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_230
-      rect:
-        serializedVersion: 2
-        x: 507
-        y: 54.631577
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3506faea174b1c04c885b73f37d3b5f9
-      internalID: -1623584279
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_231
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 30.631578
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9c56014200fa28e48a0752aa11f1e747
-      internalID: 2022851284
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_232
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 30.631578
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 07ab76d37df316940b0658a3956994be
-      internalID: 138474070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_233
-      rect:
-        serializedVersion: 2
-        x: 47
-        y: 30.631578
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8ce4d774453a9864ba3b55b9c3a3ee7b
-      internalID: -1782387705
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_234
-      rect:
-        serializedVersion: 2
-        x: 70
-        y: 30.631578
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 82e74c481bb082043ad831ce04f88cb3
-      internalID: 936085454
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_235
-      rect:
-        serializedVersion: 2
-        x: 93
-        y: 30.631578
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9a6eebf09ef6d134da3864e9f380e55e
-      internalID: -512947118
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_236
-      rect:
-        serializedVersion: 2
-        x: 116
-        y: 30.631578
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 857ea6974782ff64b829ee1845089b0a
-      internalID: 1100684031
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_237
-      rect:
-        serializedVersion: 2
-        x: 139
-        y: 30.631578
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 13556bb7967da2342ad6ce36fa55a13f
-      internalID: 417983041
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_238
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 30.631578
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 762ca261d4b5cbd469f62cf1ed73010c
-      internalID: -1164122090
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_239
-      rect:
-        serializedVersion: 2
-        x: 185
-        y: 30.631578
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d38ea99ceef644e47861403070c800a5
-      internalID: 532471195
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_240
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 30.631578
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ee50125dfc7dd7846932dcebc087f9d8
-      internalID: 1803173755
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_241
-      rect:
-        serializedVersion: 2
-        x: 231
-        y: 30.631578
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a46d603aa950cda4b87a360d7dbfe605
-      internalID: 1285989632
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_242
-      rect:
-        serializedVersion: 2
-        x: 254
-        y: 30.631578
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bd8b4ffc6948d29428a9aa928d261fbc
-      internalID: -1832683437
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_243
-      rect:
-        serializedVersion: 2
-        x: 277
-        y: 30.631578
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9a950e7fe1662ff4584f1b1e7013d52e
-      internalID: 1981406469
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_244
-      rect:
-        serializedVersion: 2
-        x: 300
-        y: 30.631578
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9da97cd43b649254fb694479cc7415af
-      internalID: -251397823
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_245
-      rect:
-        serializedVersion: 2
-        x: 323
-        y: 30.631578
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f67a5f89bfec0e3419d959b1b4ec673f
-      internalID: 800491166
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_246
-      rect:
-        serializedVersion: 2
-        x: 346
-        y: 30.631578
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c6b5caeb2ab17834a9861f0a1d11927a
-      internalID: 591850493
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_247
-      rect:
-        serializedVersion: 2
-        x: 369
-        y: 30.631578
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f49410789c2120f4f8f4b8dc048f3f83
-      internalID: -309226711
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_248
-      rect:
-        serializedVersion: 2
-        x: 392
-        y: 30.631578
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: adce74acbf2a3fe42a278a9c69bcbbac
-      internalID: -2113216099
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_249
-      rect:
-        serializedVersion: 2
-        x: 415
-        y: 30.631578
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cea3707b62530b7419bcb81cfa20a5a7
-      internalID: -2029536120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_250
-      rect:
-        serializedVersion: 2
-        x: 438
-        y: 30.631578
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3b36af366b1989f45854c9669069d564
-      internalID: 1036410753
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_251
-      rect:
-        serializedVersion: 2
-        x: 461
-        y: 30.631578
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c905c8b69d32dea4895ae6e16b28b793
-      internalID: -253126237
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_252
-      rect:
-        serializedVersion: 2
-        x: 484
-        y: 30.631578
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e7b87f75b8ae7bf4d8690dc67b8251cd
-      internalID: 546474883
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_253
-      rect:
-        serializedVersion: 2
-        x: 507
-        y: 30.631578
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bcc2fdc59515a094c89704f19de6e19c
-      internalID: -688061645
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_254
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 6.6315784
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8ed163dbdb4e4364eacb9a9eca8987dd
-      internalID: -1111543169
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_255
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 6.6315784
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5c820c9e21ffe01499a33c461cb7d691
-      internalID: -1606483369
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_256
-      rect:
-        serializedVersion: 2
-        x: 70
-        y: 6.6315784
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d3c5061e8497f0647b446d70297c4bf7
-      internalID: -571531984
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_257
-      rect:
-        serializedVersion: 2
-        x: 93
-        y: 6.6315784
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 628d2205fa64ced40b63df754cbf001d
-      internalID: 1322048541
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_258
-      rect:
-        serializedVersion: 2
-        x: 139
-        y: 6.6315784
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 82b94cf2c9b5d954983363a3f6fbb77d
-      internalID: -985371834
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_259
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 6.6315784
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 71e0bfc2a02bcc74ba74d9483d2d41be
-      internalID: -1100824931
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_260
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 6.6315784
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f780b683c186e6d4abcef60a371cad88
-      internalID: -455841354
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_261
-      rect:
-        serializedVersion: 2
-        x: 231
-        y: 6.6315784
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b9791f80458517a4a8331c2aba436659
-      internalID: -798840342
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_262
-      rect:
-        serializedVersion: 2
-        x: 277
-        y: 6.6315784
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b649f542e1f6aa5488b183af928bc205
-      internalID: 728904216
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_263
-      rect:
-        serializedVersion: 2
-        x: 323
-        y: 6.6315784
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4d4cd01b7bd2cea41b148b6a75aa5c0a
-      internalID: 564326649
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_264
-      rect:
-        serializedVersion: 2
-        x: 346
-        y: 6.6315784
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c189f48589eaeff43ac27617df5992df
-      internalID: -1618173338
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_265
-      rect:
-        serializedVersion: 2
-        x: 392
-        y: 6.6315784
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 461a0ea4607f5b04e8eb0a62fd961647
-      internalID: -838688053
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_266
-      rect:
-        serializedVersion: 2
-        x: 415
-        y: 6.6315784
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9ffd9f056a314de4085b1c2304fc96fc
-      internalID: 1802973627
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_267
-      rect:
-        serializedVersion: 2
-        x: 461
-        y: 6.6315784
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6110e0888c3f21647b865457c49fff32
-      internalID: 1993854105
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_268
-      rect:
-        serializedVersion: 2
-        x: 484
-        y: 6.6315784
-        width: 23.304348
-        height: 24.368422
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 04f69f32d1ed7474aae2d2d577052fa5
-      internalID: 860848512
       vertices: []
       indices: 
       edges: []
@@ -5789,273 +2345,109 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_76: -1994439361
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_230: -1623584279
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_165: -1470180946
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_116: 1377384953
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_246: 591850493
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_91: 1120558659
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_9: -1762461870
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_77: 1772297668
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_115: -1133993356
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_149: -508464175
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_200: 498262202
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_243: 1981406469
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_18: 1420683125
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_8: 221215721
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_3: -123969275
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_36: 1283749676
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_68: -1406975347
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_85: 2046386559
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_106: 1111602505
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_147: 1904655934
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_151: -635179725
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_253: -688061645
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_216: -657061937
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_69: 1160906454
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_38: 1711037362
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_260: -455841354
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_49: 1237789592
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_87: -1637759020
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_19: -365960665
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_59: -606520901
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_88: -1489292862
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_108: 1970875608
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_7: -829312372
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_79: -1211646143
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_44: -2076881628
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_127: -40160411
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_54: 306924578
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_82: 258932920
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_104: -65644430
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_128: -2111362761
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_27: -497165364
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_46: -822959442
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_207: 339231504
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_94: 190636130
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_11: -761152796
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_101: 1934690717
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_67: 1670131148
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_148: 727028102
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_183: -1498733744
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_4: -1661297728
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_92: 1380764863
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_96: -1670694942
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_258: -985371834
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_191: 931900286
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_154: 2109140368
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_100: 1299172211
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_64: 1587536428
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_102: 1922317191
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_66: -1630155942
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_6: -1405532334
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_95: 1019048529
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_158: 1852223416
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_112: 67292920
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_146: 368504161
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_250: 1036410753
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_102: 1922317191
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_29: -176309174
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_55: 1453131084
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_163: 814801785
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_111: 1958186791
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_240: 1803173755
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_63: -743686108
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_45: 1439641207
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_98: 286156989
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_256: -571531984
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_195: -716299379
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_119: -209492936
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_57: 274238912
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_211: -1351344630
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_155: 114679182
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_126: -1066671028
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_242: -1832683437
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_118: -1061916765
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_170: 623667644
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_197: 987782864
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_201: 1378632475
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_14: -2050590432
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_10: 1702297740
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_32: -996489694
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_17: -1281919348
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_70: -1721332206
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_28: 444809907
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_30: -1392464430
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_84: -573771370
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_145: 1244398113
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_12: -1402538075
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_220: 1466416727
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_265: -838688053
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_40: 1098151183
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_130: 1778830431
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_259: -1100824931
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_62: 2117220012
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_131: -579195576
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_262: 728904216
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_171: 1218269015
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_81: -1731555176
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_89: 2101961104
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_161: -734834845
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_42: -2069148243
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_65: -257964902
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_132: -657303658
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_247: -309226711
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_264: -1618173338
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_133: -554105972
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_140: -765661916
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_241: 1285989632
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_226: -1195765574
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_50: 1196254103
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_35: 1762042679
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_136: -288223220
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_251: -253126237
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_23: 996751973
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_56: -1189443786
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_202: 329872011
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_72: 957221588
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_2: -1227031632
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_93: 177579274
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_53: -1063950820
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_25: 230796947
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_208: -466668533
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_166: 1906338629
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_169: 429886205
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_225: 1043889804
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_160: -126408938
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_58: -740435018
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_239: 532471195
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_48: 1897786639
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_186: 2003323515
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_223: 145994491
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_244: -251397823
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_103: 641292032
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_177: 1277243404
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_196: -513696150
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_37: -428723917
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_153: 1698989184
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_182: 1870161440
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_117: -1248148384
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_123: 1626854706
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_181: -551849317
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_86: -1762917209
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_83: 1175174058
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_249: -2029536120
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_176: 1532502404
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_24: 166895293
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_22: 1873991696
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_90: -966040141
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_120: 1783144334
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_245: 800491166
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_1: 1671028737
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_124: -1641062603
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_222: -2033560387
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_212: -1849096873
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_185: 1834343581
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_91: 1120558659
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_9: -1762461870
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_224: -1756340797
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_229: -237807121
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_175: 374050760
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_68: -1406975347
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_3: -123969275
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_107: -518169006
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_228: -150829246
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_139: 1182270027
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_114: 1880034451
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_219: 99455002
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_69: 1160906454
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_167: -215526789
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_49: 1237789592
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_87: -1637759020
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_19: -365960665
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_143: -1048759687
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_121: -558429594
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_54: 306924578
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_82: 258932920
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_203: -374027583
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_180: 170964010
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_187: 1581916775
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_11: -761152796
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_4: -1661297728
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_100: 1299172211
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_192: 1925177536
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_113: 1135425585
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_156: 319325535
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_66: -1630155942
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_6: -1405532334
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_268: 860848512
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_194: -1113372182
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_234: 936085454
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_254: -1111543169
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_227: 1300230037
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_63: -743686108
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_141: -276077446
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_215: -1233710638
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_14: -2050590432
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_233: -1782387705
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_205: 117674804
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_10: 1702297740
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_236: 1100684031
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_32: -996489694
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_152: -524558679
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_235: -512947118
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_162: -1081043772
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_142: -859035846
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_179: 1929640188
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_266: 1802973627
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_218: 1837172343
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_110: -273599030
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_255: -1606483369
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_261: -798840342
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_5: 1782816439
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_39: -1325034924
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_60: -1411393204
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_172: 1151012083
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_168: 1184338122
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_199: -601782101
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_62: 2117220012
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_78: -1178162343
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_31: -966445919
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_135: -207453242
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_184: 1245884587
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_71: -1592511494
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_134: -1577662121
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_206: -1866703123
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_81: -1731555176
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_47: 608465494
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_189: -810703459
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_214: 1375218504
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_217: -904054716
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_138: 875472795
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_164: -2000968651
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_105: 531853795
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_129: 1958458345
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_89: 2101961104
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_42: -2069148243
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_65: -257964902
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_16: -736712207
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_137: -687472897
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_157: -506143833
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_122: 1380669931
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_50: 1196254103
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_73: 354388822
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_20: 1626103490
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_173: 596880870
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_232: 138474070
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_198: 2000962024
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_35: 1762042679
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_23: 996751973
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_56: -1189443786
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_72: 957221588
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_2: -1227031632
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_0: -1143880124
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_263: 564326649
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_221: -1193078823
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_93: 177579274
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_53: -1063950820
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_33: 1235354753
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_252: 546474883
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_248: -2113216099
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_193: 1520207223
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_25: 230796947
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_58: -740435018
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_48: 1897786639
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_61: 1777718294
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_174: -1636911031
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_190: 2076051874
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_34: 169915377
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_109: -1983958120
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_103: 641292032
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_74: -879272334
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_26: 1081117130
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_99: 1575652136
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_267: 1993854105
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_209: 925008260
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_178: 2014204978
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_37: -428723917
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_97: -1169468917
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_86: -1762917209
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_83: 1175174058
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_21: -222373431
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_43: -513517714
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_213: 679705138
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_188: -2092195841
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_15: 443980651
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_24: 166895293
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_75: 637012403
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_150: -653187703
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_144: -1495234919
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_210: -89420732
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_204: -210259020
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_22: 1873991696
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_90: -966040141
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_13: 665683631
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_52: -688548338
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_257: 1322048541
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_41: 1065125202
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_238: -1164122090
+      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_1: 1671028737
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_80: -1405744594
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_159: 1823829664
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_237: 417983041
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_125: -776104283
-      DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_231: 2022851284
       DS_DSi_-_Mario___Luigi_Bowsers_Inside_Story_-_Monty_Mole-removebg-preview_51: 936664123
   spritePackingTag: 
   pSDRemoveMatte: 0
