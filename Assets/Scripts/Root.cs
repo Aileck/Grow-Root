@@ -65,7 +65,7 @@ public class Root : MonoBehaviour
                 //Quaternion target = Quaternion.Euler(0, 0, translation);
                 //transform.rotation = Quaternion.Slerp(transform.rotation, target, Time.deltaTime * rotationSpeed);
             }
-         
+
         }
     }
 
@@ -95,7 +95,7 @@ public class Root : MonoBehaviour
         else if (other.gameObject.tag == "Thunder")
         {
             Destroy(other.gameObject);
-            BoostVelocity();
+            StartCoroutine(StartCountdown());
         }
     }
 
@@ -117,27 +117,10 @@ public class Root : MonoBehaviour
         }
     }
 
-    private void OnCollisionEnter(Collision other)
-    {
-
-    }
-    private void BoostVelocity()
-    {
-        Debug.Log("RAYO");
-        this.moveSpeed = 4.0f;
-        StartCoroutine(StartCountdown());
-        this.moveSpeed = 1.0f;
-    }
-
     public IEnumerator StartCountdown(float countdownValue = 4)
     {
-        currCountdownValue = countdownValue;
-        if (currCountdownValue > 0)
-        {
-             Debug.Log("RAYO DENTRO DE CORUTINA");
-            Debug.Log("Countdown: " + currCountdownValue);
-            yield return new WaitForSeconds(1.0f);
-            currCountdownValue--;
-        }
+        moveSpeed = 4.0f;
+        yield return new WaitForSeconds(2.0f);
+        moveSpeed = 1.0f;
     }
 }
