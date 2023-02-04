@@ -1253,7 +1253,6 @@ GameObject:
   - component: {fileID: 1315429440}
   - component: {fileID: 1315429439}
   - component: {fileID: 1315429438}
-  - component: {fileID: 1315429442}
   - component: {fileID: 1315429443}
   - component: {fileID: 1315429444}
   m_Layer: 0
@@ -1362,19 +1361,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1315429442
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1315429437}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 43d5cd70e2957f14abd32d7f2bf71ac7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Root: {fileID: 0}
 --- !u!61 &1315429443
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1598,8 +1584,7 @@ MonoBehaviour:
   length_label: {fileID: 0}
   treePosition: {x: 0, y: 0, z: 0}
   waterToCollect: 5
-  waterCollected: 0
-  lengthRemain: 20
+  lengthRemain: 10
 --- !u!4 &1605457413
 Transform:
   m_ObjectHideFlags: 0
@@ -2419,6 +2404,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hand_sprite_5
       objectReference: {fileID: 0}
+    - target: {fileID: 4503362280646872031, guid: bc0fe4eeee3fed14cb45c62da658e86f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 0f912e4d47a7da24ab5854046c9cb8ee, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bc0fe4eeee3fed14cb45c62da658e86f, type: 3}
 --- !u!1001 &6132303856116181254

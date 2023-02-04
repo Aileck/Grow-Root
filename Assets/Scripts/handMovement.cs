@@ -10,7 +10,7 @@ public class handMovement : MonoBehaviour
 
     void Start()
     {
-        animator = GetComponent<Animator>();
+        animator = this.GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -24,6 +24,10 @@ public class handMovement : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.S)) {
             preRoot.GetComponent<PreRoot>().Down = true;
+            animator.Play("Throwingseed");
+            //animator.SetBool("throw", true);
+            Destroy(this.gameObject,1);
+            Destroy(this);
         }
         //if (transform.position.x < 0)
         //    transform.Translate(Vector2.right * Time.deltaTime * 2);
