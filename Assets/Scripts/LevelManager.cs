@@ -8,6 +8,9 @@ public class LevelManager : MonoBehaviour
     public GameObject root;
     public GameObject tree;
 
+    public GameObject score_label;
+    public GameObject length_label;
+
     GameObject thisTree;
 
     public Vector3 treePosition;
