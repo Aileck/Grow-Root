@@ -5,11 +5,13 @@ TagManager:
   serializedVersion: 2
   tags:
   - GrowRoot
+  - Root
+  - Mole
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - root
   - Water
   - UI
   - 
