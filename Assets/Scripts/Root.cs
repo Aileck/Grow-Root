@@ -13,40 +13,54 @@ public class Root : MonoBehaviour
 
     public float moveSpeed = 1.0f;
     public float rotationSpeed = 5.0f;
+
+    public bool isDead = false;
+    Animator anim;
     void Start()
     {
-        
+        anim = this.GetComponent<Animator>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        this.transform.Translate(Vector2.down * Time.deltaTime * moveSpeed);
-        GameObject newRoot = Instantiate(rootSprite) ;
-        newRoot.transform.position = this.transform.position;
-        newRoot.transform.parent = rootHolder.transform;
+        if(isDead == false) { 
+                this.transform.Translate(Vector2.down * Time.deltaTime * moveSpeed);
+                GameObject newRoot = Instantiate(rootSprite) ;
+                newRoot.transform.position = this.transform.position;
+                newRoot.transform.parent = rootHolder.transform;
 
         
-        if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.A))
-        {
-            if (Input.GetKey(KeyCode.D))
-            {
-                transform.RotateAround(transform.position, transform.up, rotationSpeed * Time.deltaTime);
-            }
-            else if (Input.GetKey(KeyCode.A))
-            {
-                transform.RotateAround(transform.position, transform.up, -rotationSpeed * Time.deltaTime);
-            }
+                if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.A))
+                {
+                    if (Input.GetKey(KeyCode.D))
+                    {
+                        transform.RotateAround(transform.position, transform.up, rotationSpeed * Time.deltaTime);
+                    }
+                    else if (Input.GetKey(KeyCode.A))
+                    {
+                        transform.RotateAround(transform.position, transform.up, -rotationSpeed * Time.deltaTime);
+                    }
 
-            transform.Rotate(0,0, Input.GetAxis("Horizontal") * tiltAngle * Time.deltaTime * rotationSpeed);
-            //transform.RotateAround(this);
-            //float translation = Input.GetAxis("Horizontal") * tiltAngle;
-            //Quaternion target = Quaternion.Euler(0, 0, translation);
-            //transform.rotation = Quaternion.Slerp(transform.rotation, target, Time.deltaTime * rotationSpeed);
+                    transform.Rotate(0,0, Input.GetAxis("Horizontal") * tiltAngle * Time.deltaTime * rotationSpeed);
+                    //transform.RotateAround(this);
+                    //float translation = Input.GetAxis("Horizontal") * tiltAngle;
+                    //Quaternion target = Quaternion.Euler(0, 0, translation);
+                    //transform.rotation = Quaternion.Slerp(transform.rotation, target, Time.deltaTime * rotationSpeed);
+                }
         }
     }
 
-    void Initialize() {
-        this.isNew = true;
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        Debug.Log("Enter to compare object");
+        if (other.gameObject.tag == "Mole")
+        {
+
+            Debug.Log("DESTROYED");
+            anim.Play("Fall");
+            //Destroy(this.gameObject);
+            isDead = true;
+        }
     }
 }
