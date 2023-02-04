@@ -26,7 +26,7 @@ public class handMovement : MonoBehaviour
             preRoot.GetComponent<PreRoot>().Down = true;
             animator.Play("Throwingseed");
             //animator.SetBool("throw", true);
-            Destroy(this.gameObject,1);
+            Destroy(this.gameObject,1.5f);
             Destroy(this);
         }
         //if (transform.position.x < 0)
