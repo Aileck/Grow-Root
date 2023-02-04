@@ -18,6 +18,7 @@ public class PreRoot : MonoBehaviour
         if (Down) {
             this.transform.Translate(new Vector2(0,-0.005f));
             this.GetComponent<SpriteRenderer>().sprite = Shock;
+            this.transform.parent = null;
         }
     }
     private void OnTriggerEnter2D(Collider2D collision)
