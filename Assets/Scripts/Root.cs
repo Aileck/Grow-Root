@@ -16,8 +16,10 @@ public class Root : MonoBehaviour
     public float rotationSpeed = 5.0f;
 
     public bool isDead = false;
-    public bool isWin  = false;
+    public bool isWin = false;
     Animator anim;
+    float currCountdownValue;
+    int boostTime = 2;
 
     List<GameObject> roots = new List<GameObject>();
     void Start()
@@ -29,37 +31,40 @@ public class Root : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (isDead || isWin) {
+        if (isDead || isWin)
+        {
             FindObjectOfType<LevelManager>().Initiate();
             Destroy(this);
-        
+
         }
-        else{ 
-                this.transform.Translate(Vector2.down * Time.deltaTime * moveSpeed);
-                GameObject newRoot = Instantiate(rootSprite) ;
-                roots.Add(newRoot);
+        else
+        {
+            this.transform.Translate(Vector2.down * Time.deltaTime * moveSpeed);
+            GameObject newRoot = Instantiate(rootSprite);
+            roots.Add(newRoot);
 
-                newRoot.transform.position = this.transform.position;
-                newRoot.transform.parent = thisRootHolder.transform;
+            newRoot.transform.position = this.transform.position;
+            newRoot.transform.parent = thisRootHolder.transform;
 
-        
-                if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.A))
+
+            if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.A))
+            {
+                if (Input.GetKey(KeyCode.D))
                 {
-                    if (Input.GetKey(KeyCode.D))
-                    {
-                        transform.RotateAround(transform.position, transform.up, rotationSpeed * Time.deltaTime);
-                    }
-                    else if (Input.GetKey(KeyCode.A))
-                    {
-                        transform.RotateAround(transform.position, transform.up, -rotationSpeed * Time.deltaTime);
-                    }
-
-                    transform.Rotate(0,0, Input.GetAxis("Horizontal") * tiltAngle * Time.deltaTime * rotationSpeed);
-                    //transform.RotateAround(this);
-                    //float translation = Input.GetAxis("Horizontal") * tiltAngle;
-                    //Quaternion target = Quaternion.Euler(0, 0, translation);
-                    //transform.rotation = Quaternion.Slerp(transform.rotation, target, Time.deltaTime * rotationSpeed);
+                    transform.RotateAround(transform.position, transform.up, rotationSpeed * Time.deltaTime);
                 }
+                else if (Input.GetKey(KeyCode.A))
+                {
+                    transform.RotateAround(transform.position, transform.up, -rotationSpeed * Time.deltaTime);
+                }
+
+                transform.Rotate(0, 0, Input.GetAxis("Horizontal") * tiltAngle * Time.deltaTime * rotationSpeed);
+                //transform.RotateAround(this);
+                //float translation = Input.GetAxis("Horizontal") * tiltAngle;
+                //Quaternion target = Quaternion.Euler(0, 0, translation);
+                //transform.rotation = Quaternion.Slerp(transform.rotation, target, Time.deltaTime * rotationSpeed);
+            }
+         
         }
     }
 
@@ -84,11 +89,19 @@ public class Root : MonoBehaviour
             RootChangeColor();
             //isDead = true;
         }
+        else if (other.gameObject.tag == "Thunder")
+        {
+            Destroy(other.gameObject);
+            BoostVelocity();
+        }
     }
 
-    void RootChangeColor() {
-        if (isDead) {
-            foreach (GameObject root in roots) {
+    void RootChangeColor()
+    {
+        if (isDead)
+        {
+            foreach (GameObject root in roots)
+            {
                 root.GetComponent<Growth>().IsWin(false);
             }
         }
@@ -101,7 +114,27 @@ public class Root : MonoBehaviour
         }
     }
 
-    private void OnCollisionEnter(Collision other) {
+    private void OnCollisionEnter(Collision other)
+    {
 
+    }
+    private void BoostVelocity()
+    {
+        Debug.Log("RAYO");
+        this.moveSpeed = 4.0f;
+        StartCoroutine(StartCountdown());
+        this.moveSpeed = 1.0f;
+    }
+
+    public IEnumerator StartCountdown(float countdownValue = 4)
+    {
+        currCountdownValue = countdownValue;
+        if (currCountdownValue > 0)
+        {
+             Debug.Log("RAYO DENTRO DE CORUTINA");
+            Debug.Log("Countdown: " + currCountdownValue);
+            yield return new WaitForSeconds(1.0f);
+            currCountdownValue--;
+        }
     }
 }
