@@ -451,8 +451,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 339, y: -49.56871}
-  m_SizeDelta: {x: 500, y: 500}
+  m_AnchoredPosition: {x: 339, y: -61.5594}
+  m_SizeDelta: {x: 500, y: 462.5215}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &606609594
 MonoBehaviour:
@@ -487,7 +487,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Xinyu Jiang\n\n\nJoan Mart\xED Olivart\n\n\nYulia\nSara\nJulio\nNico"
+  m_Text: "Xinyu Jiang\n\n\nJoan Mart\xED Olivart\n\n\n\nYuliya Protasova\nSara C\xE1ceres\nJulio
+    Ponce\nNico Franza\nOscar Olmo Tejada"
 --- !u!222 &606609595
 CanvasRenderer:
   m_ObjectHideFlags: 0
