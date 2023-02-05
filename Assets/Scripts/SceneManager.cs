@@ -6,10 +6,9 @@ using UnityEngine.SceneManagement;
 public class SceneManager : MonoBehaviour
 {
     // Start is called before the first frame update
-
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
@@ -24,14 +23,40 @@ public class SceneManager : MonoBehaviour
 
     public void LoadLevel(string level)
     {
+
         UnityEngine.SceneManagement.SceneManager.LoadScene(level);
     }
 
-    public void LoadMenu()
+    public void LoadMenu(bool dontchangemusic = false)
     {
+        if (dontchangemusic)
+        {
+            if (GameObject.FindGameObjectWithTag("MenuMusic")) {
+                DontDestroyOnLoad(GameObject.FindGameObjectWithTag("MenuMusic"));
+            };
+        }
         UnityEngine.SceneManagement.SceneManager.LoadScene("Menu");
     }
+    public void LoadCredit()
+    {
 
+            if (GameObject.FindGameObjectWithTag("MenuMusic"))
+            {
+                DontDestroyOnLoad(GameObject.FindGameObjectWithTag("MenuMusic"));
+            };
+
+        UnityEngine.SceneManagement.SceneManager.LoadScene("Credits");
+    }
+    public void LoadInstr()
+    {
+
+            if (GameObject.FindGameObjectWithTag("MenuMusic"))
+            {
+                DontDestroyOnLoad(GameObject.FindGameObjectWithTag("MenuMusic"));
+            };
+
+        UnityEngine.SceneManagement.SceneManager.LoadScene("Instr");
+    }
     public void Exit()
     {
         Application.Quit();

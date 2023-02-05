@@ -322,6 +322,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd21af89e23271d479c98e038766d82b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  menu: {fileID: 0}
 --- !u!114 &570025312
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -368,15 +369,15 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 570025311}
         m_TargetAssemblyTypeName: SceneManager, Assembly-CSharp
-        m_MethodName: LoadLevel
-        m_Mode: 5
+        m_MethodName: LoadMenu
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: Menu
-          m_BoolArgument: 0
+          m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &570025313
 MonoBehaviour:
