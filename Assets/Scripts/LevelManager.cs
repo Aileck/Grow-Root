@@ -11,6 +11,11 @@ public class LevelManager : MonoBehaviour
         star3
     }
     // Start is called before the first frame update
+    public AudioSource phase1;
+    public AudioSource phase2;
+    public AudioSource Vic;
+    public AudioSource Lose;
+
     public GameObject root;
     public GameObject tree;
 
@@ -48,6 +53,7 @@ public class LevelManager : MonoBehaviour
     {
         score_label = GameObject.FindGameObjectWithTag("Score");
         length_label = GameObject.FindGameObjectWithTag("Length");
+        //phase1.Play();
     }
 
     // Update is called once per frame
@@ -65,6 +71,7 @@ public class LevelManager : MonoBehaviour
                 //GameStacked = true;
                 GameEnd();
                 GameOverCanvas.Stack();
+                Lose.Play();
             }
         }
 
@@ -75,12 +82,14 @@ public class LevelManager : MonoBehaviour
             {
                 GameEnd();
                 GameOverCanvas.WonGame(false, s);
+                Lose.Play();
 
             }
             else if ((waterToCollect - waterCollected) == 0)
             {
                 GameEnd();
                 GameOverCanvas.WonGame(true,s);
+                Vic.Play();
 
 
             }
@@ -96,16 +105,19 @@ public class LevelManager : MonoBehaviour
 
     void GameEnd() {
         GameOver = true;
+        phase2.Stop();
         //length_label.GetComponent<Text>().text = "";
         //score_label.GetComponent<Text>().text = "";
     }
 
     public void Initiate(Vector3 treePosition)
     {
+        phase1.Stop();
         Instantiate(topTreshold, new Vector3(0,3.95f,0), Quaternion.identity);
         this.treePosition = treePosition;
         Instantiate(root, treePosition, Quaternion.identity);
         thisTree = Instantiate(tree, treePosition + new Vector3(0,3f,0), Quaternion.identity) as GameObject;
+        phase2.Play();
     }
 
     public void Initiate()
