@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class RightLeftBehaviour : MonoBehaviour
 {
+    public bool hard;
 
     float rightBoundary = 10.0f;
     float leftBoundary = -10.0f;
@@ -11,6 +12,10 @@ public class RightLeftBehaviour : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        if (hard)
+        {
+            this.GetComponent<SpriteRenderer>().color = Color.red;
+        }
     }
 
     // Update is called once per frame
@@ -36,5 +41,10 @@ public class RightLeftBehaviour : MonoBehaviour
 
 
         //transform.Translate(Vector2.left * Time.deltaTime);
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        
     }
 }

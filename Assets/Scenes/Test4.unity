@@ -519,6 +519,7 @@ GameObject:
   - component: {fileID: 480255413}
   - component: {fileID: 480255412}
   - component: {fileID: 480255411}
+  - component: {fileID: 480255415}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -610,6 +611,21 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &480255415
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 480255410}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e5262cd1f2f2e94ca8b710a7fbda081, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panel: {fileID: 1531494031}
+  bigText: {fileID: 1059168316}
+  smallText: {fileID: 936136383}
 --- !u!1 &587679709
 GameObject:
   m_ObjectHideFlags: 0
@@ -996,7 +1012,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1274,7 +1290,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -2412,14 +2428,13 @@ GameObject:
   - component: {fileID: 1531494032}
   - component: {fileID: 1531494034}
   - component: {fileID: 1531494033}
-  - component: {fileID: 1531494035}
   m_Layer: 5
   m_Name: Panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1531494032
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2456,7 +2471,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.392}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.392}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -2481,21 +2496,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1531494031}
   m_CullTransparentMesh: 1
---- !u!114 &1531494035
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1531494031}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1e5262cd1f2f2e94ca8b710a7fbda081, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  canvas: {fileID: 0}
-  bigText: {fileID: 0}
-  smallText: {fileID: 0}
 --- !u!1 &1605457410
 GameObject:
   m_ObjectHideFlags: 0
@@ -2530,6 +2530,7 @@ MonoBehaviour:
   score_label: {fileID: 0}
   length_label: {fileID: 0}
   topTreshold: {fileID: 1077713753}
+  GameOverCanvas: {fileID: 480255415}
   treePosition: {x: 0, y: 0, z: 0}
   waterToCollect: 5
   lengthRemain: 20
@@ -3407,7 +3408,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2082363247}
         m_TargetAssemblyTypeName: SceneManager, Assembly-CSharp
-        m_MethodName: LoadLevel1
+        m_MethodName: LoadMenu
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

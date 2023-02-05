@@ -5,27 +5,43 @@ using UnityEngine.UI;
 
 public class LevelManager : MonoBehaviour
 {
+    public enum Stars {
+        star1,
+        star2,
+        star3
+    }
     // Start is called before the first frame update
     public GameObject root;
     public GameObject tree;
 
-    public GameObject score_label;
-    public GameObject length_label;
+    GameObject score_label;
+    GameObject length_label;
     public GameObject topTreshold;
 
     public WinOrLose GameOverCanvas;
 
     GameObject thisTree;
 
-    public Vector3 treePosition;
-
-    
-
+    Vector3 treePosition;
 
     public int waterToCollect = 5;
     int waterCollected;
 
     public float lengthRemain;
+
+    public float star3;
+    public float star2;
+    public float star1;
+
+    bool CheckStack;
+    int StackCounter = 10;
+    int CurentstackCounter = 0;
+
+    float TotalStackTimer = 1;
+    float CurrentStackTimer = 0;
+
+    //sbool GameStacked = false;
+
 
     bool GameOver;
     void Start()
@@ -37,21 +53,36 @@ public class LevelManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (CheckStack) {
+            CurrentStackTimer += Time.deltaTime;
 
+            if (CurrentStackTimer >= TotalStackTimer) {
+                CurrentStackTimer = 0;
+                CurentstackCounter = 0;
+                CheckStack = false;
+            }
+            if (CurentstackCounter >= StackCounter) {
+                //GameStacked = true;
+                GameEnd();
+                GameOverCanvas.Stack();
+            }
+        }
 
         if (!GameOver) {
             UpdateLabel();
-
+            Stars s = RateStar();
             if (lengthRemain <= 0)
             {
                 GameEnd();
-                GameOverCanvas.WonGame(false);
+                GameOverCanvas.WonGame(false, s);
 
             }
             else if ((waterToCollect - waterCollected) == 0)
             {
                 GameEnd();
-                GameOverCanvas.WonGame(true);
+                GameOverCanvas.WonGame(true,s);
+
+
             }
 
 
@@ -62,8 +93,8 @@ public class LevelManager : MonoBehaviour
 
     void GameEnd() {
         GameOver = true;
-        length_label.GetComponent<Text>().text = "";
-        score_label.GetComponent<Text>().text = "";
+        //length_label.GetComponent<Text>().text = "";
+        //score_label.GetComponent<Text>().text = "";
     }
 
     public void Initiate(Vector3 treePosition)
@@ -76,7 +107,18 @@ public class LevelManager : MonoBehaviour
 
     public void Initiate()
     {
-        Instantiate(root, treePosition, Quaternion.identity);
+        if (!GameOver)
+        {
+            Instantiate(root, treePosition, Quaternion.identity);
+            if (CheckStack == false)
+            {
+                CheckStack = true;
+            }
+            else
+            {
+                CurentstackCounter++;
+            }
+        }
     }
 
     public void _NotiWaterCollected() {
@@ -91,5 +133,16 @@ public class LevelManager : MonoBehaviour
         score_label.GetComponent<Text>().text =  "Water needed: " + (waterToCollect - waterCollected).ToString();
         length_label.GetComponent<Text>().text = "Length: " +  lengthRemain.ToString("F2") + "m";
 
+    }
+
+    Stars RateStar() {
+        Stars res = Stars.star1;
+        if (lengthRemain > star2) {
+            res = Stars.star2;
+        }
+        if (lengthRemain >= star3) {
+            res = Stars.star3;
+        }
+        return res;
     }
 }

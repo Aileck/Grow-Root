@@ -8,6 +8,9 @@ public class handMovement : MonoBehaviour
     public float speed = 1;
     public GameObject preRoot;
 
+    float rightBoundary = 13.0f;
+    float leftBoundary = -13.0f;
+
     void Start()
     {
         animator = this.GetComponent<Animator>();
@@ -18,11 +21,30 @@ public class handMovement : MonoBehaviour
     {
         float handSpeed = Input.GetAxis("Horizontal") * speed;
         
-        if (handSpeed != 0) {
-            this.transform.Translate(new Vector2(handSpeed,0));
-        }
+        
+            if(this.transform.position.x > leftBoundary && this.transform.position.x < rightBoundary) {
+                if (handSpeed != 0)
+                {
+                    this.transform.Translate(new Vector2(handSpeed, 0));
+                 }
+            }
 
-        if (Input.GetKeyDown(KeyCode.S)) {
+            if (this.transform.position.x <= leftBoundary) {
+                if (handSpeed > 0)
+                    {
+                        this.transform.Translate(new Vector2(handSpeed, 0));
+                    }
+            }
+            if (this.transform.position.x >= rightBoundary)
+            {
+                if (handSpeed < 0)
+                {
+                    this.transform.Translate(new Vector2(handSpeed, 0));
+                }
+            }
+    
+
+        if (Input.GetKeyDown(KeyCode.S) || Input.GetKeyDown(KeyCode.DownArrow)) {
             preRoot.GetComponent<PreRoot>().Down = true;
             animator.Play("Throwingseed");
             //animator.SetBool("throw", true);

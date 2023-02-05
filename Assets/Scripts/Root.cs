@@ -76,27 +76,32 @@ public class Root : MonoBehaviour
         if (other.gameObject.tag == "Mole" || other.gameObject.tag == "outsideWorld")
         {
 
-            Debug.Log("DESTROYED");
+            Debug.Log("Mi assesino es: " + other.gameObject.tag);
             anim.Play("Fall");
             //Destroy(this.gameObject);
             isDead = true;
+            this.gameObject.tag = "Untagged";
             RootChangeColor();
+            FindObjectOfType<LevelManager>().lengthRemain -= 0.001f;
         }
         else if (other.gameObject.tag == "Water")
         {
             Debug.Log("Sleeping");
             anim.Play("Sleep");
+            this.gameObject.tag = "Untagged";
             Destroy(other.gameObject);
             isWin = true;
             RootChangeColor();
             //isDead = true;
 
             FindObjectOfType<LevelManager>()._NotiWaterCollected();
+            FindObjectOfType<LevelManager>().lengthRemain += 0.15f;
         }
         else if (other.gameObject.tag == "Thunder")
         {
             Destroy(other.gameObject);
             StartCoroutine(StartCountdown());
+            FindObjectOfType<LevelManager>().lengthRemain += 0.15f;
         }
     }
 
