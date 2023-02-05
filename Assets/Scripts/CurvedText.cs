@@ -7,7 +7,7 @@ using System.Collections.Generic;
 public class CurvedText : Text
 {
 	public float radius = 0.5f;
-	public float wrapAngle = 90.0f;
+	public float wrapAngle = 180.0f;
 	public float scaleFactor = 100.0f;
 	
 	private float circumference

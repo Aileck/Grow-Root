@@ -49,13 +49,13 @@ public class Root : MonoBehaviour
             newRoot.transform.parent = thisRootHolder.transform;
 
 
-            if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.A))
+            if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow) || Input.GetKey(KeyCode.RightArrow))
             {
-                if (Input.GetKey(KeyCode.D))
+                if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow))
                 {
                     transform.RotateAround(transform.position, transform.up, rotationSpeed * Time.deltaTime);
                 }
-                else if (Input.GetKey(KeyCode.A))
+                else if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow))
                 {
                     transform.RotateAround(transform.position, transform.up, -rotationSpeed * Time.deltaTime);
                 }
