@@ -82,7 +82,9 @@ public class Root : MonoBehaviour
             isDead = true;
             this.gameObject.tag = "Untagged";
             RootChangeColor();
-            FindObjectOfType<LevelManager>().lengthRemain -= 0.001f;
+            FindObjectOfType<LevelManager>().lengthRemain -= 0.1f;
+
+            GetComponentInChildren<Canvas>().gameObject.SetActive(false);
         }
         else if (other.gameObject.tag == "Water")
         {
@@ -96,6 +98,8 @@ public class Root : MonoBehaviour
 
             FindObjectOfType<LevelManager>()._NotiWaterCollected();
             FindObjectOfType<LevelManager>().lengthRemain += 0.15f;
+
+            GetComponentInChildren<Canvas>().gameObject.SetActive(false);
         }
         else if (other.gameObject.tag == "Thunder")
         {

@@ -133,6 +133,10 @@ public class LevelManager : MonoBehaviour
         score_label.GetComponent<Text>().text =  "Water needed: " + (waterToCollect - waterCollected).ToString();
         length_label.GetComponent<Text>().text = "Length: " +  lengthRemain.ToString("F2") + "m";
 
+        if (GameObject.FindGameObjectWithTag("ScoreSmall")) {
+            GameObject.FindGameObjectWithTag("ScoreSmall").GetComponent<Text>().text = lengthRemain.ToString("F1");
+        }
+
     }
 
     Stars RateStar() {
