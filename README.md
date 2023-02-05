@@ -1,5 +1,5 @@
-# GGJ_Root
-<p>!There is still adding musics</p>
+
+<p>Game link: https://aileck.itch.io/grow-root-ggj2023</p>
 <h1>Grow Root</h1>
 <p><u>
 Credits:</u></p>
