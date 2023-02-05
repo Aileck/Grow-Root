@@ -5,8 +5,8 @@ using UnityEngine;
 public class CircularBehaivour : MonoBehaviour
 {
     private float RotateSpeed = 2.0f;
-    private float Radius = 2.0f;
-    private Vector2 _centre;
+    private float Radius = 4.0f;
+    public Vector2 _centre;
     private float _angle;
     // Start is called before the first frame update
     void Start()
