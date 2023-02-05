@@ -12,6 +12,7 @@ TagManager:
   - Score
   - Length
   - outsideWorld
+  - ScoreSmall
   layers:
   - Default
   - TransparentFX
