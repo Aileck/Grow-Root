@@ -23,7 +23,10 @@ public class SceneManager : MonoBehaviour
 
     public void LoadLevel(string level)
     {
-
+        if (GameObject.FindGameObjectWithTag("MenuMusic"))
+        {
+            Destroy(GameObject.FindGameObjectWithTag("MenuMusic"));
+        };
         UnityEngine.SceneManagement.SceneManager.LoadScene(level);
     }
 

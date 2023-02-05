@@ -15,6 +15,7 @@ public class LevelManager : MonoBehaviour
     public AudioSource phase2;
     public AudioSource Vic;
     public AudioSource Lose;
+    public AudioSource Down;
 
     public GameObject root;
     public GameObject tree;
@@ -117,6 +118,7 @@ public class LevelManager : MonoBehaviour
         this.treePosition = treePosition;
         Instantiate(root, treePosition, Quaternion.identity);
         thisTree = Instantiate(tree, treePosition + new Vector3(0,3f,0), Quaternion.identity) as GameObject;
+        Down.Play();
         phase2.Play();
     }
 
