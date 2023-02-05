@@ -7,12 +7,14 @@ public class handMovement : MonoBehaviour
     Animator animator;
     public float speed = 1;
     public GameObject preRoot;
+    public AudioSource audioData;
 
     float rightBoundary = 13.0f;
     float leftBoundary = -13.0f;
 
     void Start()
     {
+        audioData = GetComponent<AudioSource>();
         animator = this.GetComponent<Animator>();
     }
 
@@ -45,6 +47,7 @@ public class handMovement : MonoBehaviour
     
 
         if (Input.GetKeyDown(KeyCode.S) || Input.GetKeyDown(KeyCode.DownArrow)) {
+            audioData.Play();
             preRoot.GetComponent<PreRoot>().Down = true;
             animator.Play("Throwingseed");
             //animator.SetBool("throw", true);

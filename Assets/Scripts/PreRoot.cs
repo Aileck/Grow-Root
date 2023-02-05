@@ -6,28 +6,20 @@ public class PreRoot : MonoBehaviour
 {
     // Start is called before the first frame update
     public bool Down;
-    public AudioSource audioData;
     public Sprite Shock;
-    public bool played = false;
     void Start()
     {
-        audioData = GetComponent<AudioSource>();
+        
     }
 
     // Update is called once per frame
     void Update()
     {
         if (Down) {
-            played = true;
             this.transform.Translate(new Vector2(0,-0.01f));
             this.GetComponent<SpriteRenderer>().sprite = Shock;
             this.transform.parent = null;
         }
-        if(played){
-            audioData.Play();
-            played = false;
-        }
-        
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
