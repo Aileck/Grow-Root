@@ -3752,8 +3752,8 @@ MonoBehaviour:
   GameOverCanvas: {fileID: 1461106174}
   waterToCollect: 5
   lengthRemain: 7
-  star3: 0
-  star2: 0
+  star3: 4
+  star2: 2
   star1: 0
 --- !u!4 &1605457413
 Transform:
@@ -4507,7 +4507,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4503362280646872029, guid: bc0fe4eeee3fed14cb45c62da658e86f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -15.18
+      value: -6.95
       objectReference: {fileID: 0}
     - target: {fileID: 4503362280646872029, guid: bc0fe4eeee3fed14cb45c62da658e86f, type: 3}
       propertyPath: m_LocalPosition.y

@@ -88,6 +88,9 @@ public class LevelManager : MonoBehaviour
 
         }
 
+        if (Input.GetKeyDown(KeyCode.Escape)) {
+            UnityEngine.SceneManagement.SceneManager.LoadScene("Menu");
+        }
 
     }
 
